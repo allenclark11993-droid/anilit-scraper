@@ -47,14 +47,12 @@ def get_driver():
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
 
-    # Linux / GitHub Actions runner detection
-    if sys.platform.startswith("linux"):
-        add_log("[*] Linux environment detected. Launching system Google Chrome.")
-        # Under GitHub Actions, standard Chrome is in the PATH, let Selenium find it automatically
-        return webdriver.Chrome(options=options)
+    # Let ChromeDriverManager manage the driver for all environments (Linux, Windows, Mac)
+    add_log("[*] Initializing Chrome driver...")
     
-    # Fallback to local setup (Windows/Mac)
-    add_log("[*] Local Chrome environment detected. Launching Chrome.")
+    if sys.platform.startswith("linux"):
+        options.binary_location = "/usr/bin/google-chrome-stable"
+        
     service = Service(ChromeDriverManager().install())
     return webdriver.Chrome(service=service, options=options)
 
