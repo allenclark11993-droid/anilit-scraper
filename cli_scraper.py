@@ -47,15 +47,11 @@ def get_driver():
     options.add_argument("--disable-blink-features=AutomationControlled")
     options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36")
 
-    # Autodetect system Chromium (e.g. GitHub Actions / Linux)
-    hf_chrome = "/usr/bin/chromium"
-    hf_driver = "/usr/bin/chromedriver"
-    
-    if os.path.exists(hf_chrome):
-        add_log("[*] System Chromium detected. Initializing headless browser.")
-        options.binary_location = hf_chrome
-        service = Service(hf_driver)
-        return webdriver.Chrome(service=service, options=options)
+    # Linux / GitHub Actions runner detection
+    if sys.platform.startswith("linux"):
+        add_log("[*] Linux environment detected. Launching system Google Chrome.")
+        # Under GitHub Actions, standard Chrome is in the PATH, let Selenium find it automatically
+        return webdriver.Chrome(options=options)
     
     # Fallback to local setup (Windows/Mac)
     add_log("[*] Local Chrome environment detected. Launching Chrome.")
@@ -359,6 +355,7 @@ def main():
                 
     except Exception as general_err:
         add_log(f"[FATAL] Scraper Exception: {general_err}")
+        sys.exit(1)
     finally:
         if driver:
             try:
