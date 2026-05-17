@@ -1,0 +1,52 @@
+{
+    "title": "Scissor Seven: Extra Episodes",
+    "slug": "scissor-seven-extra-episodes",
+    "description": "Extra episodes of Scissor Seven.",
+    "genres": [
+        "Action",
+        "Comedy",
+        "Drama",
+        "Mystery",
+        "Romance"
+    ],
+    "studio": "Sharefun Studio",
+    "cover_image": "https://i.animepahe.pw/posters/4085212507799dc513f1d07548c96b9f979096542e9fcf4198191a71976b0960.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2018-01-01",
+    "status": "completed",
+    "total_episodes": 4,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/6CvPWtvm2yWd",
+                "720p": "https://kwik.cx/e/pKzdIKV6XtRS",
+                "1080p": "https://kwik.cx/e/WZ8M30cEkBzp"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/RrfyskPdHvsa",
+                "720p": "https://kwik.cx/e/ouRGOyya3AtT",
+                "1080p": "https://kwik.cx/e/tTkYaCvDs8nY"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/7227uyT9BuGB",
+                "720p": "https://kwik.cx/e/FRuvhE6tpM7J",
+                "1080p": "https://kwik.cx/e/BieqbThDSASy"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/fJWxoPNvMRIa",
+                "720p": "https://kwik.cx/e/fpEqYDEPA48W",
+                "1080p": "https://kwik.cx/e/bL4YQok6RyrW"
+            }
+        }
+    ]
+}
