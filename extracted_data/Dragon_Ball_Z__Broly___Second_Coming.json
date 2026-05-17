@@ -1,0 +1,26 @@
+{
+    "title": "Dragon Ball Z: Broly - Second Coming",
+    "slug": "dragon-ball-z-broly-second-coming",
+    "description": "After his loss to Goku, Broly crash lands and hibernates on earth. After some time, he is awakened by Trunks and Goten, who Broly believes is Kakarott, and goes on a rampage to kill both of them. At the same time, Gohan is on his way to challenge the Legendary Super Saiyan alone.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/de2ac32dd8f66978d0ea2d45c74af1e748d11d416e4d692154467a5b84c2c838.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "release_date": "1994-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/cSjxwD3NG8Bv",
+                "1080p": "https://kwik.cx/e/rYBMM9uC5mR8"
+            }
+        }
+    ]
+}

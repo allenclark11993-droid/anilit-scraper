@@ -1,0 +1,27 @@
+{
+    "title": "Dragon Ball Z: Super Android 13!",
+    "slug": "dragon-ball-z-super-android-13",
+    "description": "Dr. Gero's Androids #13, #14, and #15 are awakened by the laboratory computers and immediately head to the mall where Goku is shopping. It is up to Goku and his friends to defeat them.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/79e2300d1194ebdb8d1f73a86fbab9e3750c016cfc05b5e8b02c662dd0c42c11.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "release_date": "1992-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/XJMEpUxwuHfT",
+                "1080p": "https://kwik.cx/e/9kyn2nT3ZBrs"
+            }
+        }
+    ]
+}

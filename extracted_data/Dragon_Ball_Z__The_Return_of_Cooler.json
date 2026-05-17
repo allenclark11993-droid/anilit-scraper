@@ -1,0 +1,27 @@
+{
+    "title": "Dragon Ball Z: The Return of Cooler",
+    "slug": "dragon-ball-z-the-return-of-cooler",
+    "description": "A mysterious entity known as the \"Big Gete Star\" clings onto planet New Namek to absorb its energy, putting all Namekians in grave danger. Dende, Earth's new guardian, learns about the prevailing situation in his homeland and quickly requests Gokuu Son and his friends for help.Upon arrival in New Namek, they discover that the Namekians are held captive by powerful robots, whose leader turns out to be Cooler. He explains that the advanced technology of the Big Gete Star saved him from what otherwise would have been certain death. Alongside his mechanical army, Cooler proceeds to attack Gokuu and his friends to get rid of them once and for all.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/e8539fa771842c6e69975a1f4bd107a696cc4967c430f8c02592edff5e2e1ade.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "1992-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/c0Z3Eb02FAa1",
+                "1080p": "https://kwik.cx/e/WQBIMRx7iRHV"
+            }
+        }
+    ]
+}

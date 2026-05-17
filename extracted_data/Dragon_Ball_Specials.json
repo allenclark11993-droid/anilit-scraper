@@ -1,0 +1,29 @@
+{
+    "title": "Dragon Ball Specials",
+    "slug": "dragon-ball-specials",
+    "description": "Specials included with the original series.Goku no Koutsuuanzen (Goku's Traffic Safety)Goku is heading to West City to attend Bulma's birthday party, and on the way he ends up learning the rules for getting through traffic. The movie was for children to watch so it would teach them how to get across a pedestrian crossing.Goku no Shouboutai (Goku's Fire Brigade)An episode for kids where Goku and the others work for the Fire brigade and explain how avoid problems with fire.",
+    "genres": [
+        "Comedy",
+        "Fantasy"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/5e7b8928c7c88d71109db6f0fd5807d2daf0c90639fa2cb3f71127ce79718ced.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "1988-01-01",
+    "status": "completed",
+    "total_episodes": 2,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/89dCOq6htbDK"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/uYHzfIfFuFFh"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Dragon Ball Z: Gather Together! Goku's World",
+    "slug": "dragon-ball-z-gather-together-goku-s-world",
+    "description": "Dragon Ball Z: Atsumare! Goku's World is a Terebikko's videogame. In this OVA, Goku and his friends pose questions for the viewers about the Dragon Ball series.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/2a84c77e786a83024205235ecf998a19d2ba9f34403d418d6bb7454c2dc4df5c.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "release_date": "1992-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/HjJOeXNzIU6E"
+            }
+        }
+    ]
+}

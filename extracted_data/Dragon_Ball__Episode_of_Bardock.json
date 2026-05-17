@@ -1,0 +1,27 @@
+{
+    "title": "Dragon Ball: Episode of Bardock",
+    "slug": "dragon-ball-episode-of-bardock",
+    "description": "Shown at Jump Festa 2012, held in December, 2011.Bardock, Goku's father, who was supposed to have died when Freeza's attack hit him along with the Planet Vegeta, was sent way back in time where the planet was inhabited by strange creatures. There, he meets Freeza's ancestor, a space pirate named Chilled, and fights him to protect the planet.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/214d697b8e8ed8511756d43e53743fcf388d90ea5d987b8c87d37583b1dcc879.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2012-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/uuTvKy8BAlyn",
+                "1080p": "https://kwik.cx/e/5DZS00yFRgY3"
+            }
+        }
+    ]
+}

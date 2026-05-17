@@ -1,0 +1,27 @@
+{
+    "title": "Dragon Ball Z: Bojack Unbound",
+    "slug": "dragon-ball-z-bojack-unbound",
+    "description": "Mr. Money is holding another Tenka'ichi Budokai and Mr. Satan invites everyone in the world to join in. Little does he know that Bojack, an ancient villain who has escaped his prison, is competing. Since Goku is currently dead, it is up to Gohan, Vegeta, and Trunks to defeat Bojack and his henchman.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/f0820a680be12db559adc65661e92e4cdb5b86fa67e6cd6c87ba0e6a5d58bb70.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "1993-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/gkJueGKoJP47",
+                "1080p": "https://kwik.cx/e/JWPYeE5SBiXw"
+            }
+        }
+    ]
+}

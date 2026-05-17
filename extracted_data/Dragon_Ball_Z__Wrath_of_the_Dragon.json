@@ -1,0 +1,27 @@
+{
+    "title": "Dragon Ball Z: Wrath of the Dragon",
+    "slug": "dragon-ball-z-wrath-of-the-dragon",
+    "description": "The Z Warriors discover an unopenable music box and are told to open it with the dragon balls. The contents turn out to be a warrior named Tapion who had sealed himself inside along with a monster called Hildegarn. Goku must now perfect a new technique to defeat the evil monster.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/31b630317e296313b523cb6152f818a65e54e2f058609ca33e73f0799d3540be.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "1995-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/nDD7vnt0TqDJ",
+                "1080p": "https://kwik.cx/e/E8zbfwXEJBjE"
+            }
+        }
+    ]
+}

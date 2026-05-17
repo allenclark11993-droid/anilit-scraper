@@ -1,0 +1,27 @@
+{
+    "title": "Dragon Ball Z: Broly - The Legendary Super Saiyan",
+    "slug": "dragon-ball-z-broly-the-legendary-super-saiyan",
+    "description": "As Goku investigates the destruction of the Southern Galaxy, Vegeta is taken to be King of the New Planet Vegeta, and to destroy the Legendary Super Saiyan, Broly.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Toei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/6470489268e61675978f4968bdf4dfe19418576e139396051cdac64367c86ebe.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "1993-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/BMJWML5ytm7j",
+                "1080p": "https://kwik.cx/e/9jmTyU4PMkQV"
+            }
+        }
+    ]
+}
