@@ -1,0 +1,40 @@
+{
+    "title": "Hetalia World Series Specials",
+    "slug": "hetalia-world-series-specials",
+    "description": "Extra episodes of Hetalia World Series.Includes:- Hetalia Extra 1: Chatty Nordics- Hetalia Extra 2: Celebrating Halloween- Hetalia Extra 3: Previously in Hetalia- Hetalia Extra 4: Hetalia = Fantasia",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "Studio Deen",
+    "cover_image": "https://i.animepahe.pw/posters/00a5abd42427dd24c3f866b78bc371c3c6574b08c63402780a6d67078ae2b93a.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2011-01-01",
+    "status": "completed",
+    "total_episodes": 4,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/2sGCQtrG4k7R"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/Jo09YdV4zwqh"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/ANEJf3sXi156"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/1A5HYYs1E7Z1"
+            }
+        }
+    ]
+}

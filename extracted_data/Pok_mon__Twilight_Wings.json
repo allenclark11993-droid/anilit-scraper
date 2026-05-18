@@ -1,0 +1,61 @@
+{
+    "title": "Pok\u00e9mon: Twilight Wings",
+    "slug": "pok-mon-twilight-wings",
+    "description": "Galar is a region where Pokemon battles have developed into a cultural sensation. Over the span of seven episodes, Pokemon: Twilight Wings will show in detail the dreams of Galar's residents, the realities they face, the challenges they must overcome and the conflicts they must resolve. In addition to these new stories, fans can expect to see a variety of Pokemon originally discovered in the Galar region appearing in the capsule series.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Fantasy"
+    ],
+    "studio": "Studio Colorido, FILMONY",
+    "cover_image": "https://i.animepahe.pw/posters/8d2182dbaef4e582da044eaeb4498df676c1b761334ca9fe9730dbbdb7762cbc.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 7,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/65BcVVDtnlyc"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/oJE5o8yg1CfH"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/WbF9ZogImzhm"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/GonwnceFx7JM"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/o9OCw24iubpx"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/aScuWMZw6b0X"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/xMn45IbFSPaZ"
+            }
+        }
+    ]
+}

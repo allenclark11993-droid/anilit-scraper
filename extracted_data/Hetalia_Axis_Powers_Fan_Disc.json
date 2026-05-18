@@ -1,0 +1,46 @@
+{
+    "title": "Hetalia Axis Powers Fan Disc",
+    "slug": "hetalia-axis-powers-fan-disc",
+    "description": "The Fan Disc includes the unaired episode \"Ore-sama Nikki Sono 2\"",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "Studio Deen",
+    "cover_image": "https://i.animepahe.pw/posters/c5189afdb2efd52e274e881449a9ce0eb1fdc1379fd669d2cf190c60c1986cee.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2010-01-01",
+    "status": "completed",
+    "total_episodes": 5,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/WZ391oPNKP6C"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/q6LGfFiiEimD"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/zVgmqVLWEug7"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/mVbw6Tx8nvro"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "480p": "https://kwik.cx/e/tBxUFBLqo3dk"
+            }
+        }
+    ]
+}
