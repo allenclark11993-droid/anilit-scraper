@@ -1,0 +1,32 @@
+{
+    "title": "A Certain Scientific Railgun T Specials",
+    "slug": "a-certain-scientific-railgun-t-specials",
+    "description": "Toaru Kagaku no Railgun T specials that were released on Blu-ray and DVD volumes.",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "J.C.Staff",
+    "cover_image": "https://i.animepahe.pw/posters/b9c70bdc207e9d9b8d05062cc122294c43cb4ffdd8d5670a32ec5b24f2c82fa0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 2,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/3JdilRbgbenp",
+                "720p": "https://kwik.cx/e/dk3QZYQgpBF9",
+                "1080p": "https://kwik.cx/e/Xv5A1GRiUlT2"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/T79Sp2V6rVCV",
+                "720p": "https://kwik.cx/e/lkgOji9ZUeWk",
+                "1080p": "https://kwik.cx/e/ylymv8JGXYNy"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Tales of Crestoria: The Wake of Sin",
+    "slug": "tales-of-crestoria-the-wake-of-sin",
+    "description": "Short animated TV special depicting the prologue of the main story of TALES OF CRESTORIA, showing Kanata and Misella setting off on their journey.",
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "studio": "Kamikaze Douga",
+    "cover_image": "https://i.animepahe.pw/posters/cfedfc8580183bf6ba58af13fd4a94c1b145bbeb6d91f197b353044cc2a49a5e.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/zIUugkSZjT4x",
+                "720p": "https://kwik.cx/e/Bv2eag58ulky",
+                "1080p": "https://kwik.cx/e/0vCRIbSSzYJ7"
+            }
+        }
+    ]
+}

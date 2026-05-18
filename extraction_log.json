@@ -17722,5 +17722,143 @@
         "total": 220,
         "status": "partial",
         "last_update": "2026-05-18 18:47:05"
+    },
+    "Vinland Saga": {
+        "episodes_synced": 24,
+        "total": 24,
+        "status": "completed",
+        "last_update": "2026-05-18 22:15:28"
+    },
+    "Allison to Lillia": {
+        "episodes_synced": 26,
+        "total": 26,
+        "status": "completed",
+        "last_update": "2026-05-18 22:17:10"
+    },
+    "Armitage III: Poly-Matrix": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:17:18"
+    },
+    "Ahiru no Sora": {
+        "episodes_synced": 50,
+        "total": 50,
+        "status": "completed",
+        "last_update": "2026-05-18 22:20:35"
+    },
+    "Armitage III": {
+        "episodes_synced": 4,
+        "total": 4,
+        "status": "completed",
+        "last_update": "2026-05-18 22:20:54"
+    },
+    "Armitage III: Dual-Matrix": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:21:02"
+    },
+    "Gibiate": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-18 22:21:52"
+    },
+    "Mr Love: Queen's Choice": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-18 22:22:42"
+    },
+    "A Certain Scientific Railgun T": {
+        "episodes_synced": 25,
+        "total": 25,
+        "status": "completed",
+        "last_update": "2026-05-18 22:24:24"
+    },
+    "Medaka Box": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-18 22:25:16"
+    },
+    "Air Master": {
+        "episodes_synced": 27,
+        "total": 27,
+        "status": "completed",
+        "last_update": "2026-05-18 22:27:02"
+    },
+    "Excel Saga": {
+        "episodes_synced": 26,
+        "total": 26,
+        "status": "completed",
+        "last_update": "2026-05-18 22:28:45"
+    },
+    "Made in Abyss: Dawn of the Deep Soul": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:28:56"
+    },
+    "ORESUKI Are you the only one who loves me? - Our Playball / Our End Run / Our Game": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:29:04"
+    },
+    "A Certain Scientific Railgun T Specials": {
+        "episodes_synced": 2,
+        "total": 2,
+        "status": "completed",
+        "last_update": "2026-05-18 22:29:16"
+    },
+    "Burn the Witch": {
+        "episodes_synced": 3,
+        "total": 3,
+        "status": "completed",
+        "last_update": "2026-05-18 22:29:33"
+    },
+    "DearS: Is It a Golden Ball?": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:29:41"
+    },
+    "DearS": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-18 22:30:31"
+    },
+    "A Hot Night With My Boss in a Capsule Hotel": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-18 22:31:21"
+    },
+    "Dorohedoro: Ma no Omake": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:31:29"
+    },
+    "Genie Family 2020": {
+        "episodes_synced": 20,
+        "total": 20,
+        "status": "completed",
+        "last_update": "2026-05-18 22:32:49"
+    },
+    "Tales of Crestoria: The Wake of Sin": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-18 22:32:58"
+    },
+    "Chrome Shelled Regios": {
+        "episodes_synced": 10,
+        "total": 24,
+        "status": "partial",
+        "last_update": "2026-05-18 22:33:40"
     }
 }
