@@ -1,0 +1,48 @@
+{
+    "title": "Umayon",
+    "slug": "umayon",
+    "description": "It's a \"pop\" and cute everyday anime based on the 4-koma manga featuring the characters from Uma Musume: Pretty Derby.",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "W-Toon Studio, DMM.futureworks",
+    "cover_image": "https://i.animepahe.pw/posters/aff6207e9860719e6e292925ed544e8ad1f7f988eada56f5d2efa15d75b0d09d.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 4,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/xCgezWqgfnOE",
+                "720p": "https://kwik.cx/e/t8p1j0u5HE5L",
+                "1080p": "https://kwik.cx/e/ycuxTQ8N14WQ"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/BkMl74qi39WB",
+                "720p": "https://kwik.cx/e/KG5MQHUKF79B",
+                "1080p": "https://kwik.cx/e/YNkBcJRdiL3j"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/qeWZyWGLszdL",
+                "720p": "https://kwik.cx/e/hLgAQRMPlsex",
+                "1080p": "https://kwik.cx/e/fmdldGWPZnVc"
+            }
+        },
+        {
+            "episode_number": 10,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Sjf0nTUEJgfE",
+                "720p": "https://kwik.cx/e/M7xeS68kDnMw",
+                "1080p": "https://kwik.cx/e/b5JuY5Esij4N"
+            }
+        }
+    ]
+}
