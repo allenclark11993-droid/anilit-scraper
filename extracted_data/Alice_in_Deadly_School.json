@@ -1,0 +1,24 @@
+{
+    "title": "Alice in Deadly School",
+    "slug": "alice-in-deadly-school",
+    "description": "A group of young girls are cornered on the roof of their school when everyone else has turned into zombies. Realizing that the chances of being rescued are slim, they begin planning their escape using their knowledge and skills. In the girls' desperate struggle to survive, they must also find time to contemplate their friendship.",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "Hoods Entertainment",
+    "cover_image": "https://i.animepahe.pw/posters/c7fbd151e2c65b48237a5a4bb68d3f2ec2f375fd032281211645a982f5ea55b8.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "2021-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/YW40NotGqw62",
+                "720p": "https://kwik.cx/e/ql7IiGc7wz3a",
+                "1080p": "https://kwik.cx/e/USj2RuCoH2GE"
+            }
+        }
+    ]
+}

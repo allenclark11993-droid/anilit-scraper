@@ -1,0 +1,25 @@
+{
+    "title": "Tonikaku Kawaii: Kaisou",
+    "slug": "tonikaku-kawaii-kaisou",
+    "description": "Recap of all 12 episodes of Tonikaku Kawaii.",
+    "genres": [
+        "Comedy",
+        "Romance"
+    ],
+    "studio": "Seven Arcs",
+    "cover_image": "https://i.animepahe.pw/posters/f94b34310ff955ab4c318df8582d773a970f92a761f9e851f61710230113727b.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2021-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 12.5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/3ESSbFuZTJ5h",
+                "720p": "https://kwik.cx/e/ia61DslD1gna",
+                "1080p": "https://kwik.cx/e/A1oVVcAFaZll"
+            }
+        }
+    ]
+}

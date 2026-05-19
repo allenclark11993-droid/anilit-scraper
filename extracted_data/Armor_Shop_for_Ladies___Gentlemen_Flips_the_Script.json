@@ -1,0 +1,39 @@
+{
+    "title": "Armor Shop for Ladies & Gentlemen Flips the Script",
+    "slug": "armor-shop-for-ladies-gentlemen-flips-the-script",
+    "description": "N/A",
+    "genres": [
+        "Comedy",
+        "Fantasy",
+        "Ecchi"
+    ],
+    "studio": "IMAGICA Lab.",
+    "cover_image": "https://i.animepahe.pw/posters/ef60dc42c64c92c88b9c8db6c38414ddac394e61006f5d26e1b31ae7dccd3283.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2019-01-01",
+    "status": "completed",
+    "total_episodes": 3,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/vN9bHCaw0QjL",
+                "720p": "https://kwik.cx/e/ui70ESY898Fv"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/MWRi2EGPUZjF",
+                "720p": "https://kwik.cx/e/8lKKdQCnCHTH"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/0LSqlmtSxtku",
+                "720p": "https://kwik.cx/e/GreCEoov5rAu"
+            }
+        }
+    ]
+}

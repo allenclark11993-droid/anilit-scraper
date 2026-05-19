@@ -1,0 +1,41 @@
+{
+    "title": "Fog Hill of Five Elements",
+    "slug": "fog-hill-of-five-elements",
+    "description": "A legend tells that a long time ago, monsters could give the ability to certain elected officials to master the five elements. But for that, you have to go through the dangerous foggy mountains...We follow the adventures of one of these elected officials.",
+    "genres": [
+        "Action",
+        "Fantasy"
+    ],
+    "studio": "Samsara Animation Studio",
+    "cover_image": "https://i.animepahe.pw/posters/f2352f8b57106eaa1f2eaaf1fd51fc71a814e3cec103a4ac5caf9455853d883d.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 3,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/UZbG9MH3jSD4",
+                "720p": "https://kwik.cx/e/Is8ZxEjdN0oA",
+                "1080p": "https://kwik.cx/e/3ajGgtLGUppf"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/cBPX0vnamkFn",
+                "720p": "https://kwik.cx/e/N4T5Wf9UjZnQ",
+                "1080p": "https://kwik.cx/e/lEYVItrFVThm"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/H8esi6noqtjN",
+                "720p": "https://kwik.cx/e/XpefzohBUlEj",
+                "1080p": "https://kwik.cx/e/X2oZoDHLGYAB"
+            }
+        }
+    ]
+}
