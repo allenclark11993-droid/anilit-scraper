@@ -1,0 +1,74 @@
+{
+    "title": "Dragon's Dogma",
+    "slug": "dragon-s-dogma",
+    "description": "Based on a world-famous action RPG set in an open world, Dragon's Dogma from Capcom will be brought to life as a Netflix original anime series. The story follows a man's journey seeking revenge on a dragon who stole his heart. On his way, the man is brought back to life as an \"Arisen.\" An action adventure about a man challenged by demons who represent the seven deadly sins of humans.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "studio": "Sublimation",
+    "cover_image": "https://i.animepahe.pw/posters/5d3405a93ca6ad9a34505a8da9d2d2b088860037b37dbbf5c25ed55dad5c3d51.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 7,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/WTXy2t2jxTSi",
+                "720p": "https://kwik.cx/e/YtrDVPlAf2SS",
+                "1080p": "https://kwik.cx/e/VjROH4y8LELM"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/BdRc1I39H22i",
+                "720p": "https://kwik.cx/e/FZ9d0gfQrEYL",
+                "1080p": "https://kwik.cx/e/XEL8wyveq13z"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/wJnDElnKtgHY",
+                "720p": "https://kwik.cx/e/fX5UHYaham8y",
+                "1080p": "https://kwik.cx/e/T7EsmgU3H0tm"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/bAgyDeVzUKwH",
+                "720p": "https://kwik.cx/e/EtayA5tpbrFG",
+                "1080p": "https://kwik.cx/e/Ga2EBkC176L0"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/JPyNkCvNDZuK",
+                "720p": "https://kwik.cx/e/MVrsp1fykyPM",
+                "1080p": "https://kwik.cx/e/9S0OLlGsvkkW"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Gla7fMzXbIlj",
+                "720p": "https://kwik.cx/e/5bFdWrK2ygbW",
+                "1080p": "https://kwik.cx/e/O06xLWhsTFPa"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/PvwCKXTeSgHo",
+                "720p": "https://kwik.cx/e/RR7CObCULqC3",
+                "1080p": "https://kwik.cx/e/fe9xBYvBa5Fo"
+            }
+        }
+    ]
+}

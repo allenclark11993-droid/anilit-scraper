@@ -17860,5 +17860,101 @@
         "total": 24,
         "status": "partial",
         "last_update": "2026-05-18 22:33:40"
+    },
+    "Witchblade": {
+        "episodes_synced": 24,
+        "total": 24,
+        "status": "completed",
+        "last_update": "2026-05-19 10:52:15"
+    },
+    "Ninja Collection": {
+        "episodes_synced": 13,
+        "total": 13,
+        "status": "completed",
+        "last_update": "2026-05-19 10:53:08"
+    },
+    "Bem Movie: Become Human": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-19 10:53:16"
+    },
+    "Extra Olympia Kyklos": {
+        "episodes_synced": 24,
+        "total": 24,
+        "status": "completed",
+        "last_update": "2026-05-19 10:54:51"
+    },
+    "Trigun": {
+        "episodes_synced": 26,
+        "total": 26,
+        "status": "completed",
+        "last_update": "2026-05-19 10:56:33"
+    },
+    "JoJo's Bizarre Adventure: Golden Wind": {
+        "episodes_synced": 39,
+        "total": 39,
+        "status": "completed",
+        "last_update": "2026-05-19 10:59:09"
+    },
+    "Cybersix": {
+        "episodes_synced": 13,
+        "total": 13,
+        "status": "completed",
+        "last_update": "2026-05-19 11:00:01"
+    },
+    "Yokohama Kaidashi Kikou": {
+        "episodes_synced": 2,
+        "total": 2,
+        "status": "completed",
+        "last_update": "2026-05-19 11:00:13"
+    },
+    "Yokohama Kaidashi Kikou: Quiet Country Cafe": {
+        "episodes_synced": 2,
+        "total": 2,
+        "status": "completed",
+        "last_update": "2026-05-19 11:00:25"
+    },
+    "Dragon's Dogma": {
+        "episodes_synced": 7,
+        "total": 7,
+        "status": "completed",
+        "last_update": "2026-05-19 11:00:57"
+    },
+    "KimiKiss: Pure Rouge": {
+        "episodes_synced": 24,
+        "total": 24,
+        "status": "completed",
+        "last_update": "2026-05-19 11:02:31"
+    },
+    "KimiKiss Pure Rouge: Love Fighter": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-19 11:02:39"
+    },
+    "Ramayana: The Legend of Prince Rama": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-19 11:02:50"
+    },
+    "Back Street Girls: Gokudols": {
+        "episodes_synced": 10,
+        "total": 10,
+        "status": "completed",
+        "last_update": "2026-05-19 11:03:33"
+    },
+    "Attack on Titan: Chronicle": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-19 11:03:41"
+    },
+    "Saint Seiya": {
+        "episodes_synced": 102,
+        "total": 114,
+        "status": "partial",
+        "last_update": "2026-05-19 11:10:28"
     }
 }

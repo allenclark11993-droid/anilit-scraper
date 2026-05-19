@@ -1,0 +1,26 @@
+{
+    "title": "Attack on Titan: Chronicle",
+    "slug": "attack-on-titan-chronicle",
+    "description": "The compilation film recaps the anime's 59 episodes from seasons one to three.",
+    "genres": [
+        "Action",
+        "Drama",
+        "Suspense"
+    ],
+    "studio": "Wit Studio",
+    "cover_image": "https://i.animepahe.pw/posters/79bc776c1158cd9f4e30e37ef06740c51f743dc5137d1c1dc6d0532cc4f6dd09.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/LjScHdbD3sok",
+                "720p": "https://kwik.cx/e/R750oyrpgCxj",
+                "1080p": "https://kwik.cx/e/HipeyQtE2YDI"
+            }
+        }
+    ]
+}

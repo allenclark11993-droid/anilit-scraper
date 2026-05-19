@@ -1,0 +1,26 @@
+{
+    "title": "Bem Movie: Become Human",
+    "slug": "bem-movie-become-human",
+    "description": "Take place 2 years after the last episode of the TV series.Detective Sonia Summers are tracking Bem and the others. She reunited with Belo, who is fighting a dark organization alone. He brought her to Bem, but Bem doesn't remember anything and living in the city as an ordinary employee... or that is what he thought he was.",
+    "genres": [
+        "Action",
+        "Horror",
+        "Supernatural"
+    ],
+    "studio": "Production I.G",
+    "cover_image": "https://i.animepahe.pw/posters/d66790ebe2eaca67bb06f84c7b2d97b82f87b1e4f5f817c6ad1641a402dbdf10.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/ZokwGEsjMXf7",
+                "720p": "https://kwik.cx/e/LjfvkCU9ez5F",
+                "1080p": "https://kwik.cx/e/H47hUHXgeGJn"
+            }
+        }
+    ]
+}
