@@ -1,0 +1,49 @@
+{
+    "title": "Marulk's Daily Life",
+    "slug": "marulk-s-daily-life",
+    "description": "Shorts played before Made in Abyss Movie 3: Fukaki Tamashii no Reimei in Japan's theatrical screenings.",
+    "genres": [
+        "Adventure",
+        "Fantasy"
+    ],
+    "studio": "Kinema Citrus",
+    "cover_image": "https://i.animepahe.pw/posters/9f89ccf76af4bf3b066f81e9cb10c34b4581ca7734174f279bb48eaeb1603c0a.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 4,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/T4sdwxkBRo6K",
+                "720p": "https://kwik.cx/e/gAVZhhiCARsb",
+                "1080p": "https://kwik.cx/e/8cf3L0NeD3R6"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/xKIMHD8JJ9OP",
+                "720p": "https://kwik.cx/e/HK7CEQOqt9sz",
+                "1080p": "https://kwik.cx/e/8RtL7VytG5qe"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/16diKG0gO0xn",
+                "720p": "https://kwik.cx/e/1ktj62bxDetU",
+                "1080p": "https://kwik.cx/e/sYj4X4FkUCW5"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/jEkTJPKMgCXy",
+                "720p": "https://kwik.cx/e/F81wOcJh3KNt",
+                "1080p": "https://kwik.cx/e/04LJDSCicxau"
+            }
+        }
+    ]
+}
