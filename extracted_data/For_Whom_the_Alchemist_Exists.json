@@ -1,0 +1,26 @@
+{
+    "title": "For Whom the Alchemist Exists",
+    "slug": "for-whom-the-alchemist-exists",
+    "description": "The game is set in the continent of Babel, where the Tower of Babel looms large over seven nations. After the invention of alchemy led to its use as a tool of war that brought humanity to the brink of extinction, the seven nations struck an uneasy peace that led to a prohibition on alchemy for hundreds of years since. In the Continental Year 911, the nation of Lustrice broke the pact by assembling an army bolstered by alchemy, with ambitions of conquest over the continent. Led by Envylia, the six nations allied and struck down the rogue nation, casting alchemy once again to darkness. But 20 years after the war, alchemy once again begins to cause chaos in the land.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "studio": "Satelight",
+    "cover_image": "https://i.animepahe.pw/posters/2a0f17103fbcf9dbf192c5def3691bbd12bc347df1598237fb25ce82e2ed778d.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "release_date": "2019-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/BnuxxQ1njx2K",
+                "720p": "https://kwik.cx/e/gLtYrKOAdNRt",
+                "1080p": "https://kwik.cx/e/BkNCRxNzmELb"
+            }
+        }
+    ]
+}

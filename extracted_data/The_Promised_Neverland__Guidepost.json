@@ -1,0 +1,25 @@
+{
+    "title": "The Promised Neverland: Guidepost",
+    "slug": "the-promised-neverland-guidepost",
+    "description": "Recap of the first season of Yakusoku no Neverland and the first five episodes of season two.",
+    "genres": [
+        "Mystery",
+        "Suspense"
+    ],
+    "studio": "CloverWorks",
+    "cover_image": "https://i.animepahe.pw/posters/58de42f8a3a962dbf490e2cc4d5f0b3bd9f6bff5425fde9ee2b3f6784b22b883.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "release_date": "2021-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 5.5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/PXaqCE4p3XeT",
+                "720p": "https://kwik.cx/e/n5F8rptQv8zw",
+                "1080p": "https://kwik.cx/e/aoJCszkrfrua"
+            }
+        }
+    ]
+}

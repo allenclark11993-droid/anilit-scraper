@@ -1,0 +1,26 @@
+{
+    "title": "Date A Bullet: Nightmare or Queen",
+    "slug": "date-a-bullet-nightmare-or-queen",
+    "description": "Second part of the Date A Bullet films.",
+    "genres": [
+        "Action",
+        "Fantasy",
+        "Sci-Fi"
+    ],
+    "studio": "Geek Toys",
+    "cover_image": "https://i.animepahe.pw/posters/ed3eb3eea7f657ea91958950a387ffdbf8ad00ac9230386d4f217cbb38cfe87a.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Vi7RVLIGomsQ",
+                "720p": "https://kwik.cx/e/7oFlarrnEvRq",
+                "1080p": "https://kwik.cx/e/0udctMWVZa9d"
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "title": "Fate/Grand Order: Moonlight/Lostroom",
+    "slug": "fate-grand-order-moonlight-lostroom",
+    "description": "Short centering on a \"Lost Room\" where you can find what was lost\u2014or those who lost. This room, which belongs to no one, lies forgotten in a corner of Chaldea.",
+    "genres": [
+        "Action",
+        "Fantasy"
+    ],
+    "studio": "Lay-duce",
+    "cover_image": "https://i.animepahe.pw/posters/6d4d68f51f96bec781d551b075ec155248741fa53d3e448d381d469f8b6a4115.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "release_date": "2018-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/IWPcbjkAgEKQ",
+                "720p": "https://kwik.cx/e/oj16k7VHEO9i",
+                "1080p": "https://kwik.cx/e/yW2YxDCMrKBS"
+            }
+        }
+    ]
+}

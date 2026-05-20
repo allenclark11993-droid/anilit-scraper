@@ -1,0 +1,26 @@
+{
+    "title": "Kabukichou Sherlock OVA",
+    "slug": "kabukichou-sherlock-ova",
+    "description": "A fun collection of six short side stories depicting the past and present of Sherlock, Watson, Moriarty, and the rest of the Row House as they go about their everyday lives in their home of Kabukicho.",
+    "genres": [
+        "Comedy",
+        "Drama",
+        "Mystery"
+    ],
+    "studio": "Production I.G",
+    "cover_image": "https://i.animepahe.pw/posters/23433ef64b05b6f2b74ddab68f6c4a8744137077a76c5277c1290a1faf07b0f6.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/WWq1YBEFgOq7",
+                "720p": "https://kwik.cx/e/Fkt6r5KfLorm",
+                "1080p": "https://kwik.cx/e/JlriIivFYI1U"
+            }
+        }
+    ]
+}
