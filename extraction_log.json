@@ -18244,5 +18244,125 @@
         "total": 13,
         "status": "partial",
         "last_update": "2026-05-19 23:09:13"
+    },
+    "K-ON!": {
+        "episodes_synced": 13,
+        "total": 13,
+        "status": "completed",
+        "last_update": "2026-05-20 10:39:01"
+    },
+    "K-ON! Season 2": {
+        "episodes_synced": 26,
+        "total": 26,
+        "status": "completed",
+        "last_update": "2026-05-20 10:40:47"
+    },
+    "K-On!!: Plan!": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:40:55"
+    },
+    "Nichijou - My Ordinary Life Episode 0": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:41:03"
+    },
+    "Nichijou - My Ordinary Life": {
+        "episodes_synced": 26,
+        "total": 26,
+        "status": "completed",
+        "last_update": "2026-05-20 10:42:49"
+    },
+    "Planetarian: Snow Globe": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:42:58"
+    },
+    "The Promised Neverland": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-20 10:43:49"
+    },
+    "Shiro, the Giant, and the Castle of Ice": {
+        "episodes_synced": 4,
+        "total": 4,
+        "status": "completed",
+        "last_update": "2026-05-20 10:44:08"
+    },
+    "Ubasuteyama": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:44:16"
+    },
+    "The King's Avatar 2": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-20 10:45:07"
+    },
+    "The Outcast Season 3": {
+        "episodes_synced": 8,
+        "total": 8,
+        "status": "completed",
+        "last_update": "2026-05-20 10:45:41"
+    },
+    "Ranma \u00bd": {
+        "episodes_synced": 161,
+        "total": 161,
+        "status": "completed",
+        "last_update": "2026-05-20 10:56:22"
+    },
+    "Ranma \u00bd OVA": {
+        "episodes_synced": 6,
+        "total": 6,
+        "status": "completed",
+        "last_update": "2026-05-20 10:56:53"
+    },
+    "Ranma \u00bd: Chuugoku Nekonron Daikessen! Okite Yaburi no Gekitou-hen!!": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:57:01"
+    },
+    "Ranma \u00bd: Kessen Tougenkyou! Hanayome wo Torimodose!": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:57:09"
+    },
+    "Ranma \u00bd: Chou Musabetsu Kessen! Ranma Team vs. Densetsu no Houou": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:57:18"
+    },
+    "Ranma \u00bd Super": {
+        "episodes_synced": 3,
+        "total": 3,
+        "status": "completed",
+        "last_update": "2026-05-20 10:57:34"
+    },
+    "Ranma \u00bd: Akumu! Shunmin Kou": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:57:42"
+    },
+    "Ranma \u00bd: Tendou-ke no Oyobidenai Yatsura!": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-20 10:57:50"
+    },
+    "Ranma \u00bd: Yomigaeru Kioku": {
+        "episodes_synced": 1,
+        "total": 2,
+        "status": "partial",
+        "last_update": "2026-05-20 10:57:58"
     }
 }

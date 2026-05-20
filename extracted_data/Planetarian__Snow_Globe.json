@@ -1,0 +1,25 @@
+{
+    "title": "Planetarian: Snow Globe",
+    "slug": "planetarian-snow-globe",
+    "description": "The new OVA will feature the prequel short story \"Snow Globe,\" which debuted as part of a light novel volume that bundled with a limited-edition version of the original PC game.",
+    "genres": [
+        "Drama",
+        "Sci-Fi"
+    ],
+    "studio": "Okuruto Noboru",
+    "cover_image": "https://i.animepahe.pw/posters/b180a1f5455513e28d0291935f2f097dfbff23ac46583030968110a9e7d54c8f.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "release_date": "2021-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Cb66Cf70adFf",
+                "720p": "https://kwik.cx/e/gQXrk2YsPPQK",
+                "1080p": "https://kwik.cx/e/RKod4UVYlcyo"
+            }
+        }
+    ]
+}

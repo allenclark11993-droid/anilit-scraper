@@ -1,0 +1,44 @@
+{
+    "title": "Ranma \u00bd Super",
+    "slug": "ranma-super",
+    "description": "Super OVA 1: Based on a story from vol. 27 of the manga, Shampoo and Ukyo arrange to travel to a cave that is legendary for breaking up couples. They hope they will cause Ranma and Akane to break-up and Shampoo hopes to ditch Mousse the same way.Super OVA 2: \"Jaaku no Oni\"  was released in 1995. Based on a story from vol. 29 of the manga, an Oni  escapes it`s sealed box and begins to possess people in the neighborhood.Super OVA 3: This is a story from vol. 31. Ranma disturbs a doll that takes revenge on anyone that shows it disrespect. In order to teach Ranma a lesson, the doll possesses Akane and tries on many occasions to attack him.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Romance",
+        "Supernatural"
+    ],
+    "studio": "Studio Deen",
+    "cover_image": "https://i.animepahe.pw/posters/5385d0bd5665370e40d6c4dfcba7ccc3d4e6fcf1e0df36c56ff85cc198e39cfc.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "release_date": "1995-01-01",
+    "status": "completed",
+    "total_episodes": 3,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/jK4PTmHCSXQd",
+                "720p": "https://kwik.cx/e/2WQSR8wY0KAZ",
+                "1080p": "https://kwik.cx/e/OGLGEIphGInE"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/JS8oERi2Hvdn",
+                "720p": "https://kwik.cx/e/AC0s09BWT7Lt",
+                "1080p": "https://kwik.cx/e/PEOgZdHjDAnD"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/AhnFrUbQBi7Z",
+                "720p": "https://kwik.cx/e/7n5ApPHvLYCQ",
+                "1080p": "https://kwik.cx/e/iaB26yjjtnnV"
+            }
+        }
+    ]
+}

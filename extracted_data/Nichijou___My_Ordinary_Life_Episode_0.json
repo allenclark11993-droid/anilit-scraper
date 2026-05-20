@@ -1,0 +1,24 @@
+{
+    "title": "Nichijou - My Ordinary Life Episode 0",
+    "slug": "nichijou-my-ordinary-life-episode-0",
+    "description": "While the title suggests a story of simple, everyday school life, the contents are more the opposite. The setting is a strange school where you may see the principal wrestle a deer or a robot's arm hide a rollcake. However there are still normal stories, like making a card castle or taking a test you didn't study for.",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "Kyoto Animation",
+    "cover_image": "https://i.animepahe.pw/posters/b5b10f0b60ea84c4a61c9f44f98d30c222dd5e7ad2afa875a5395d25b851b538.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "release_date": "2011-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 0,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/zVfjYZUTLkCl",
+                "720p": "https://kwik.cx/e/mGNhbh2Jatwc",
+                "1080p": "https://kwik.cx/e/sWa27jloYs9o"
+            }
+        }
+    ]
+}
