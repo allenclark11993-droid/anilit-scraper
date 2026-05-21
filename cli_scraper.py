@@ -23,7 +23,7 @@ os.makedirs(DATA_DIR, exist_ok=True)
 
 # --- CONFIG ---
 API_URL = "https://anilit.mangalit.org/ad/upload_api.php"
-API_KEY = "Anilit_Secure_Upload_Token_2026_9f2f7cc5e111a7fd"
+API_KEY = os.getenv("ANILIT_API_KEY", "Anilit_Secure_Upload_Token_2026_9f2f7cc5e111a7fd")
 
 # --- UTILS ---
 def add_log(text):

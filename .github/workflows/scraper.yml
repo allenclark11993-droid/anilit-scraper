@@ -2,7 +2,7 @@ name: AniLit Autonomous Scraper
 
 on:
   schedule:
-    - cron: '*/30 * * * *'  # Runs automatically every 30 minutes
+    - cron: '0 * * * *'  # Runs automatically every 1 hour
   workflow_dispatch:      # Allows manual trigger
 
 jobs:
@@ -14,10 +14,10 @@ jobs:
 
     steps:
       - name: Checkout Code
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
 
       - name: Set up Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5
         with:
           python-version: '3.11'
 
@@ -32,6 +32,8 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run Headless Scraper CLI
+        env:
+          ANILIT_API_KEY: ${{ secrets.ANILIT_API_KEY }}
         run: |
           python cli_scraper.py
 
