@@ -18804,9 +18804,165 @@
         "last_update": "2026-05-21 00:18:27"
     },
     "Sonic X": {
-        "episodes_synced": 29,
+        "episodes_synced": 78,
         "total": 78,
+        "status": "completed",
+        "last_update": "2026-05-21 11:18:25"
+    },
+    "Puparia": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-21 11:18:34"
+    },
+    "I''s": {
+        "episodes_synced": 2,
+        "total": 2,
+        "status": "completed",
+        "last_update": "2026-05-21 11:18:46"
+    },
+    "I''s Pure": {
+        "episodes_synced": 6,
+        "total": 6,
+        "status": "completed",
+        "last_update": "2026-05-21 11:19:13"
+    },
+    "Ichitaka's Delusion Diary": {
+        "episodes_synced": 5,
+        "total": 5,
+        "status": "completed",
+        "last_update": "2026-05-21 11:19:36"
+    },
+    "Hanada Shounen-shi": {
+        "episodes_synced": 25,
+        "total": 25,
+        "status": "completed",
+        "last_update": "2026-05-21 11:21:14"
+    },
+    "Asobi Asobase: Workshop of Fun": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:22:07"
+    },
+    "Asobi Asobase Specials": {
+        "episodes_synced": 2,
+        "total": 2,
+        "status": "completed",
+        "last_update": "2026-05-21 11:22:19"
+    },
+    "Kagerou Daze: In a Day's": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-21 11:22:28"
+    },
+    "Red": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-21 11:22:36"
+    },
+    "On-Gaku: Our Sound": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-21 11:22:44"
+    },
+    "We Were There": {
+        "episodes_synced": 26,
+        "total": 26,
+        "status": "completed",
+        "last_update": "2026-05-21 11:24:26"
+    },
+    "Idolls!": {
+        "episodes_synced": 10,
+        "total": 10,
+        "status": "completed",
+        "last_update": "2026-05-21 11:25:09"
+    },
+    "Vlad Love": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:26:00"
+    },
+    "Skate-Leading\u2606Stars": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:26:50"
+    },
+    "SK\u221e: Crazy Rock Jam": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-21 11:26:58"
+    },
+    "Domestic Girlfriend": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:27:50"
+    },
+    "Gintama: Love Incense Arc": {
+        "episodes_synced": 2,
+        "total": 2,
+        "status": "completed",
+        "last_update": "2026-05-21 11:28:02"
+    },
+    "Toward the Terra": {
+        "episodes_synced": 1,
+        "total": 1,
+        "status": "completed",
+        "last_update": "2026-05-21 11:28:13"
+    },
+    "Cells at Work! CODE BLACK!": {
+        "episodes_synced": 13,
+        "total": 13,
+        "status": "completed",
+        "last_update": "2026-05-21 11:29:07"
+    },
+    "Yashahime: Princess Half-Demon": {
+        "episodes_synced": 24,
+        "total": 24,
+        "status": "completed",
+        "last_update": "2026-05-21 11:30:44"
+    },
+    "Suppose a Kid from the Last Dungeon Boonies Moved to a Starter Town?": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:31:34"
+    },
+    "Otherside Picnic": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:32:26"
+    },
+    "Pui Pui Molcar": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:33:17"
+    },
+    "Gekidol: Actidol Project": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:34:07"
+    },
+    "I\u2605Chu: Halfway Through the Idol": {
+        "episodes_synced": 12,
+        "total": 12,
+        "status": "completed",
+        "last_update": "2026-05-21 11:34:57"
+    },
+    "ABCiee Working Diary": {
+        "episodes_synced": 2,
+        "total": 12,
         "status": "partial",
-        "last_update": "2026-05-21 00:20:24"
+        "last_update": "2026-05-21 11:35:09"
     }
 }

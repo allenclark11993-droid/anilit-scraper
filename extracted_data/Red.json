@@ -1,0 +1,24 @@
+{
+    "title": "Red",
+    "slug": "red",
+    "description": "Red is the opening theme for Kagerou Daze: In a Day's performed by GOUACHE.",
+    "genres": [
+        "Sci-Fi"
+    ],
+    "studio": "N/A",
+    "cover_image": "https://i.animepahe.pw/posters/c8840ae58ce9d516a042a8ed5f9aae56ed00b18ac22eecfccaf15f56e6969547.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "release_date": "2016-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/cPF7KFIaqqxD",
+                "720p": "https://kwik.cx/e/wir6gGB0hRqX",
+                "1080p": "https://kwik.cx/e/QsKTURWRcNlC"
+            }
+        }
+    ]
+}

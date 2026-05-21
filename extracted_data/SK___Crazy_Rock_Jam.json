@@ -1,0 +1,24 @@
+{
+    "title": "SK\u221e: Crazy Rock Jam",
+    "slug": "sk-crazy-rock-jam",
+    "description": "Recap of the first 9 episodes of SK\u221e.",
+    "genres": [
+        "Sports"
+    ],
+    "studio": "Bones",
+    "cover_image": "https://i.animepahe.pw/posters/afb65668c76dd56765668303171cdef00ac22af07701a94210609d6c80f105e5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "release_date": "2021-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 9.5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/5dgYB6Vf8msV",
+                "720p": "https://kwik.cx/e/oEklFgsTbeb9",
+                "1080p": "https://kwik.cx/e/I4ETcKc6ABhm"
+            }
+        }
+    ]
+}

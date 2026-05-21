@@ -1,0 +1,25 @@
+{
+    "title": "Puparia",
+    "slug": "puparia",
+    "description": "Independent short animation by Shingo Tamagawa.",
+    "genres": [
+        "Avant Garde"
+    ],
+    "studio": "N/A",
+    "cover_image": "https://i.animepahe.pw/posters/b55537eb30b3f21b6660eb75eafd17eee8b090f7b4c81c548879cbb0fd1e6563.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/k6fSyogfOw2b",
+                "720p": "https://kwik.cx/e/8PPtBHTIeLfW",
+                "1080p": "https://kwik.cx/e/VQIUeJeqqEg4",
+                "2160p": "https://kwik.cx/e/dNvBzmayTzBb"
+            }
+        }
+    ]
+}
