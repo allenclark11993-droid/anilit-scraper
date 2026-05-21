@@ -423,12 +423,11 @@ def main():
                 
                 details["total_episodes"] = len(episodes_data)
                 
-                # Identify which episodes are actually new and listed on scanned pages
+                # Identify which episodes are actually new (missing locally)
                 new_episodes_to_scrape = []
-                target_episodes = processed_sessions.get(session, {}).get("episodes", set())
                 for ep in episodes_data:
                     ep_num = ep["episode"]
-                    if ep_num in target_episodes and ep_num not in completed_episodes_dict:
+                    if ep_num not in completed_episodes_dict:
                         new_episodes_to_scrape.append(ep)
                 
                 if not new_episodes_to_scrape:
