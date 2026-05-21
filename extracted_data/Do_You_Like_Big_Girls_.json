@@ -8,11 +8,59 @@
     ],
     "studio": "Studio Hokiboshi",
     "cover_image": "https://i.animepahe.pw/posters/6c7e4ae656cb21beebe028c70cc4d39309dc47c143573447f7a959a550e9e43c.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
     "total_episodes": 7,
     "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/lHWmCao0wAND",
+                "720p": "https://kwik.cx/e/Scyc9pOeKRsn",
+                "1080p": "https://kwik.cx/e/1oJoJAoKGx6M"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/h2JDmpd14HNK",
+                "720p": "https://kwik.cx/e/MUKZsor4mdXW",
+                "1080p": "https://kwik.cx/e/LCzfd1C5xf34"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/rtVqxejn0OXy",
+                "720p": "https://kwik.cx/e/MioZ8DuLRUhF",
+                "1080p": "https://kwik.cx/e/fwkxon7ECwep"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/0qa0gUIpwB4W",
+                "720p": "https://kwik.cx/e/mMv70T5l6kbd",
+                "1080p": "https://kwik.cx/e/ArF6rjKNVuaI"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/fUJfWr4Q1sUT",
+                "720p": "https://kwik.cx/e/JWFlkQpz3WW7",
+                "1080p": "https://kwik.cx/e/VIIn9GquyZ07"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/xIDITqSaoRGV",
+                "720p": "https://kwik.cx/e/JPZc0FGUuCeJ",
+                "1080p": "https://kwik.cx/e/TpnFGiq7x9rX"
+            }
+        },
         {
             "episode_number": 7,
             "resolutions": {

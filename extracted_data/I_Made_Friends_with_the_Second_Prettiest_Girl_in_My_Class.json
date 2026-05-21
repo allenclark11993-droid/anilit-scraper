@@ -7,11 +7,59 @@
     ],
     "studio": "Connect",
     "cover_image": "https://i.animepahe.pw/posters/6e70b333e15ce586707fb47211454943358d3bbc4e1c5c0121f32c4b0ac91730.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
     "total_episodes": 7,
     "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/pdPuqYgiJ2td",
+                "720p": "https://kwik.cx/e/TZA4VnQTd4Zc",
+                "1080p": "https://kwik.cx/e/dYDz3vd3cWZx"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/KtnHZbWtXI04",
+                "720p": "https://kwik.cx/e/h0g6IDeKaSCZ",
+                "1080p": "https://kwik.cx/e/OmoLcZY6Ojfi"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/VkdUUjSyJtos",
+                "720p": "https://kwik.cx/e/9LsQgBKPRhn2",
+                "1080p": "https://kwik.cx/e/1sUvtQ5cUmDV"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/hfiZPJDua0i7",
+                "720p": "https://kwik.cx/e/b6vcpNwS8D1X",
+                "1080p": "https://kwik.cx/e/yPd1BmtH68gt"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/BUKGWIrr5kii",
+                "720p": "https://kwik.cx/e/OhAwNejfTA8C",
+                "1080p": "https://kwik.cx/e/cC8xMVZ1ztn9"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/pgoj1s4bv5lG",
+                "720p": "https://kwik.cx/e/5uWFG8gX6Ogu",
+                "1080p": "https://kwik.cx/e/WTtADM8guPCb"
+            }
+        },
         {
             "episode_number": 7,
             "resolutions": {

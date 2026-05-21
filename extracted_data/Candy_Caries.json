@@ -8,11 +8,51 @@
     ],
     "studio": "Wit Studio",
     "cover_image": "https://i.animepahe.pw/posters/abdaf148e8c6378fa2a2daa15dd2a6ef7785e3b6effd00e8fcbe5a46ed643234.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
     "total_episodes": 6,
     "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/X4jKPkUPMiXp",
+                "720p": "https://kwik.cx/e/QW06BTCqrAwp",
+                "1080p": "https://kwik.cx/e/EuLFIai16Ke6"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/rGwdPFuJLsS7",
+                "720p": "https://kwik.cx/e/WGsc7wKE4PI3",
+                "1080p": "https://kwik.cx/e/n45jGhNN8VYl"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/OPbeBq5kmueU",
+                "720p": "https://kwik.cx/e/ULZKfTakZpRw",
+                "1080p": "https://kwik.cx/e/4BMxhwYpFyzI"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/WU71BU99sYOa",
+                "720p": "https://kwik.cx/e/8iatPbKOkOey",
+                "1080p": "https://kwik.cx/e/IzdWdwvKLSSo"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/HCMGCd7YyK7d",
+                "720p": "https://kwik.cx/e/mPVIFBaG8jFw",
+                "1080p": "https://kwik.cx/e/I9dS3sBJC43N"
+            }
+        },
         {
             "episode_number": 6,
             "resolutions": {

@@ -8,11 +8,91 @@
     ],
     "studio": "Lerche",
     "cover_image": "https://i.animepahe.pw/posters/a07f3a553509d1176fef2fad715caa255d7eed497492f5a02bff5eea0c498c76.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
     "total_episodes": 11,
     "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/RtkQe0WvF2VO",
+                "720p": "https://kwik.cx/e/cFYGBUqoDs6Y",
+                "1080p": "https://kwik.cx/e/rbGoLfR0922k"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/uN7shfF5HMoX",
+                "720p": "https://kwik.cx/e/MRLNPfhVQfzE",
+                "1080p": "https://kwik.cx/e/NBcr1tngWoWe"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/vZaNaSe86Lwx",
+                "720p": "https://kwik.cx/e/UzVxTIr8xAqQ",
+                "1080p": "https://kwik.cx/e/GXyPijEVijEP"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/mvzF3kYEqGe3",
+                "720p": "https://kwik.cx/e/WPeS4okRCYAS",
+                "1080p": "https://kwik.cx/e/F7dK9sR0SxLR"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/thTGAC112wCR",
+                "720p": "https://kwik.cx/e/Dl6qryHGnPGn",
+                "1080p": "https://kwik.cx/e/GDlniFeGuoPL"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/XfY6lMC9dOfg",
+                "720p": "https://kwik.cx/e/tikpCguhpe1S",
+                "1080p": "https://kwik.cx/e/Xn7G9MayLjHg"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/G5GvmHZpEfb0",
+                "720p": "https://kwik.cx/e/un2BYTkRaFiT",
+                "1080p": "https://kwik.cx/e/g4jSwTuBNEhl"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/O41bLMzwBjwD",
+                "720p": "https://kwik.cx/e/sQpzvuedXDmZ",
+                "1080p": "https://kwik.cx/e/FRN1lZwsIqpI"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/HeKhz2q3u1yQ",
+                "720p": "https://kwik.cx/e/TOiBqC5yFHrq",
+                "1080p": "https://kwik.cx/e/rwko4WTC1l5e"
+            }
+        },
+        {
+            "episode_number": 10,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/JGnDvd5MQSS6",
+                "720p": "https://kwik.cx/e/GGUalBFcsAFF",
+                "1080p": "https://kwik.cx/e/7aPwx7Pt8nW7"
+            }
+        },
         {
             "episode_number": 11,
             "resolutions": {

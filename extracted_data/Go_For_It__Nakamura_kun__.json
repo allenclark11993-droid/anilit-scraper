@@ -14,6 +14,70 @@
     "total_episodes": 9,
     "episodes": [
         {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Aj6T73p5831K",
+                "720p": "https://kwik.cx/e/p1vJ7G2X3isV",
+                "1080p": "https://kwik.cx/e/LAkWxmYupJS3"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/xQCsC2K7XXzX",
+                "720p": "https://kwik.cx/e/0hwGHshgY92I",
+                "1080p": "https://kwik.cx/e/5xPgoGg73txw"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Z8OVjW6kn0Vt",
+                "720p": "https://kwik.cx/e/o6ffymzEq0O6",
+                "1080p": "https://kwik.cx/e/nRgUxgDEM6pY"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/XAjvXiyW1CnW",
+                "720p": "https://kwik.cx/e/WKFUFHr8NU88",
+                "1080p": "https://kwik.cx/e/hCRzlUDayZhA"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/36RBcMMcGQc1",
+                "720p": "https://kwik.cx/e/9nH7Dnl0XuSk",
+                "1080p": "https://kwik.cx/e/ubqKROS1dOcw"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/LQbr4sgujUyL",
+                "720p": "https://kwik.cx/e/OCiLrLqsVl9I",
+                "1080p": "https://kwik.cx/e/asgRgpg2MLKj"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/efqE9LIn59nJ",
+                "720p": "https://kwik.cx/e/gg4kerTmNW0A",
+                "1080p": "https://kwik.cx/e/2CAzng4YhuLU"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Xusc3UiPp4Em",
+                "720p": "https://kwik.cx/e/CZCuPXMimjAj",
+                "1080p": "https://kwik.cx/e/v4bbX9Oe6XgX"
+            }
+        },
+        {
             "episode_number": 9,
             "resolutions": {
                 "360p": "https://kwik.cx/e/vzLz5SzVlOyq",
