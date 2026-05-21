@@ -1,0 +1,24 @@
+{
+    "title": "Sword Art Online: Sword Art Offline - Extra Edition",
+    "slug": "sword-art-online-sword-art-offline-extra-edition",
+    "description": "Extra episode of Sword Art Offline included in the Sword Art Online: Extra Edition Blu-ray and DVD.",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "I was a Ballerina",
+    "cover_image": "https://i.animepahe.pw/posters/e9bfcc6c597240d1f7c466f5da509dd3e114913de3129cd43982d27c5118209a.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2014-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/ejUrNz1QcEH4",
+                "720p": "https://kwik.cx/e/AbLK14HOUBsd",
+                "1080p": "https://kwik.cx/e/dwrYCRgi5N9S"
+            }
+        }
+    ]
+}

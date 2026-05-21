@@ -1,0 +1,27 @@
+{
+    "title": "Digimon Adventure: Last Evolution Kizuna",
+    "slug": "digimon-adventure-last-evolution-kizuna",
+    "description": "As the Chosen Children and their partner Digimon live happily together in the human world, Taichi Yagami and Yamato Ishida, alongside their friends, dedicate themselves to maintaining this hard-earned peace. Though united by this innate responsibility, each one has already started to take their first steps toward a future beyond being a Chosen Child.However, this new journey is interrupted by the appearance of Menoa Bellucci, an American professor specializing in Digimon research. She bears news of several Chosen Children from around the world being found comatose, with their partner Digimon nowhere to be found. Menoa's investigations indicate that a new breed of Digimon is behind the alarming phenomenon: Eosmon, who hides within the internet's depths.To succeed in this mission, the team must endeavor through the growing distance between them and band together one last time.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Comedy",
+        "Drama"
+    ],
+    "studio": "Yumeta Company",
+    "cover_image": "https://i.animepahe.pw/posters/9fd425647f3e78ba810e83081390aaf97bc4e3e51aab2520f508b4705cb68b95.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/3QmXzZ5EYmTm",
+                "720p": "https://kwik.cx/e/PrF8FskeH5fc",
+                "1080p": "https://kwik.cx/e/L4uO3r4nkUSf"
+            }
+        }
+    ]
+}

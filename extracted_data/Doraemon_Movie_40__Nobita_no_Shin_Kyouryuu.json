@@ -1,0 +1,26 @@
+{
+    "title": "Doraemon Movie 40: Nobita no Shin Kyouryuu",
+    "slug": "doraemon-movie-40-nobita-no-shin-kyouryuu",
+    "description": "Nobita and the gang travel 66 million years into the past to bring a pair of adorable dinosaur twins back to where they belong.",
+    "genres": [
+        "Adventure",
+        "Comedy",
+        "Sci-Fi"
+    ],
+    "studio": "Shin-Ei Animation",
+    "cover_image": "https://i.animepahe.pw/posters/8da82f8e655b05e43ee3b38712b34adfee4f4f6c71984c25946d325f2c6cfc80.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2020-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/mStndBekWSLu",
+                "720p": "https://kwik.cx/e/41UaVb0A2YCJ",
+                "1080p": "https://kwik.cx/e/2vqiKfMk4xqE"
+            }
+        }
+    ]
+}

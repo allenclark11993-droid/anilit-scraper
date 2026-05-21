@@ -1,0 +1,26 @@
+{
+    "title": "Sword Art Online: Alicization - Recollection",
+    "slug": "sword-art-online-alicization-recollection",
+    "description": "Recap of the first 18 episodes of Sword Art Online: Alicization.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "studio": "A-1 Pictures",
+    "cover_image": "https://i.animepahe.pw/posters/b288ae74933a10f068ad439ed5c47249241a80e2674520a91cc3f2e65592d4ce.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "release_date": "2019-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 18.5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/0GG0PZzch34T",
+                "720p": "https://kwik.cx/e/ooGr0rXT2Z85",
+                "1080p": "https://kwik.cx/e/nKMrZ3t33pij"
+            }
+        }
+    ]
+}

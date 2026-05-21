@@ -1,0 +1,26 @@
+{
+    "title": "Sword Art Online II: Debriefing",
+    "slug": "sword-art-online-ii-debriefing",
+    "description": "Recap episode of the Phantom Bullet arc, also known as Episode 14.5.",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Fantasy"
+    ],
+    "studio": "A-1 Pictures",
+    "cover_image": "https://i.animepahe.pw/posters/0a6e46e23063225c5139a60a88fc08a3b78f3abde4d9ac4afc84ce6926d83319.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "release_date": "2014-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 14.5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/jRFGmAj1pvZW",
+                "720p": "https://kwik.cx/e/DWBvObcvLLvO",
+                "1080p": "https://kwik.cx/e/arIXAsfM1kDa"
+            }
+        }
+    ]
+}

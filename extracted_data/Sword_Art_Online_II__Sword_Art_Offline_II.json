@@ -1,0 +1,88 @@
+{
+    "title": "Sword Art Online II: Sword Art Offline II",
+    "slug": "sword-art-online-ii-sword-art-offline-ii",
+    "description": "BD/DVD specials.",
+    "genres": [
+        "Comedy"
+    ],
+    "studio": "I was a Ballerina",
+    "cover_image": "https://i.animepahe.pw/posters/75a9fb8be18c975e866a8a0ecaadf3d14c8eff1464f19c0ee1550f2d99748e94.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2014-01-01",
+    "status": "completed",
+    "total_episodes": 9,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/IN38fSlhABlQ",
+                "720p": "https://kwik.cx/e/TFku5hWN03CS",
+                "1080p": "https://kwik.cx/e/AUpS5rjEvAGp"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/TU057VMMwtb7",
+                "720p": "https://kwik.cx/e/Yr0hnr8JotuZ",
+                "1080p": "https://kwik.cx/e/tylLluE3PGCk"
+            }
+        },
+        {
+            "episode_number": 3,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/P1iNZBQ5dV0S",
+                "720p": "https://kwik.cx/e/tSWRT85cERMM",
+                "1080p": "https://kwik.cx/e/FPTc1xZapJa8"
+            }
+        },
+        {
+            "episode_number": 4,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/pAQKW3bY7Uak",
+                "720p": "https://kwik.cx/e/oT9lcPas82iY",
+                "1080p": "https://kwik.cx/e/dCOlxixeq6yu"
+            }
+        },
+        {
+            "episode_number": 5,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/97XTgl3DMZx2",
+                "720p": "https://kwik.cx/e/GD7tDkXcLsUG",
+                "1080p": "https://kwik.cx/e/hI5VXHoDmA0q"
+            }
+        },
+        {
+            "episode_number": 6,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/XU6Wx3ALTzWv",
+                "720p": "https://kwik.cx/e/13I0SzWwAgDS",
+                "1080p": "https://kwik.cx/e/owOviqHHNdph"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/areckBwsWvSn",
+                "720p": "https://kwik.cx/e/bQaRqepDl16Q",
+                "1080p": "https://kwik.cx/e/aqq7NgKLGAvq"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/0H3ymSF1GWi2",
+                "720p": "https://kwik.cx/e/pLoXqUfEAVPS",
+                "1080p": "https://kwik.cx/e/vsv38IObf4o6"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/RjgECfDVZYG1",
+                "720p": "https://kwik.cx/e/mdu8xk6k558B",
+                "1080p": "https://kwik.cx/e/oNOwSAdjFN5w"
+            }
+        }
+    ]
+}

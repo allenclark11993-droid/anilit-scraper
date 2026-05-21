@@ -1,0 +1,26 @@
+{
+    "title": "Sword Art Online Movie: Ordinal Scale",
+    "slug": "sword-art-online-movie-ordinal-scale",
+    "description": "In 2026, four years after the infamous Sword Art Online incident, a revolutionary new form of technology has emerged: the Augma, a device that utilizes an Augmented Reality system. Unlike the Virtual Reality of the NerveGear and the Amusphere, it is perfectly safe and allows players to use it while they are conscious, creating an instant hit on the market. The most popular application for the Augma is the game Ordinal Scale, which immerses players in a fantasy role-playing game with player rankings and rewards.Following the new craze, Kirito's friends dive into the game, and despite his reservations about the system, Kirito eventually joins them. While at first it appears to be just fun and games, they soon find out that the game is not all that it seems...",
+    "genres": [
+        "Action",
+        "Adventure",
+        "Sci-Fi"
+    ],
+    "studio": "A-1 Pictures",
+    "cover_image": "https://i.animepahe.pw/posters/1502b2bdb4194bd85cf533777c09d4aff6b3e5e1467432eb792d1c2d08fc3151.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "release_date": "2017-01-01",
+    "status": "completed",
+    "total_episodes": 1,
+    "episodes": [
+        {
+            "episode_number": 1,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/nb2zXqcrZe37",
+                "720p": "https://kwik.cx/e/eDDCRVbTjsoo",
+                "1080p": "https://kwik.cx/e/AsKAavXRHQ7h"
+            }
+        }
+    ]
+}
