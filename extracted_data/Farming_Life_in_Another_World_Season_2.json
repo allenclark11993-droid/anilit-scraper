@@ -8,10 +8,10 @@
     ],
     "studio": "Zero-G",
     "cover_image": "https://i.animepahe.pw/posters/399220394f47c0deb441dc8b81a5bdecdeacfcaa6e62c9b92dfbe9fd12fbc408.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/ESfPXA4sL9Hv",
                 "720p": "https://kwik.cx/e/djzl0rfVwjMA",
                 "1080p": "https://kwik.cx/e/xmAxHo0UF7ju"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/bCPMj5rRIHDA",
+                "720p": "https://kwik.cx/e/ZctSr6wkDa4J",
+                "1080p": "https://kwik.cx/e/c2sSchSVDCtN"
             }
         }
     ]

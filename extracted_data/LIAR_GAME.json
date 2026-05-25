@@ -8,10 +8,10 @@
     ],
     "studio": "Madhouse",
     "cover_image": "https://i.animepahe.pw/posters/50811b37c207fc84d66a6bba90ea999db96e273531a1eedb86b67f24611c999b.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/PxaI5vEx7aiI",
                 "720p": "https://kwik.cx/e/YDXrPPfJWtvI",
                 "1080p": "https://kwik.cx/e/tdZO0DDvcegn"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/5d3wptmvf2Ae",
+                "720p": "https://kwik.cx/e/xu42G4WEYnj3",
+                "1080p": "https://kwik.cx/e/8PIDeo2cChDf"
             }
         }
     ]
