@@ -8,10 +8,10 @@
     ],
     "studio": "Tatsunoko Production",
     "cover_image": "https://i.animepahe.pw/posters/4cfb4a675220d44af99f119b2857e4c4e13c05b8a615c6e69f4f6b4f7677cf8c.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/wmfSEyPpqklG",
                 "720p": "https://kwik.cx/e/WfXugPE3X6Y1",
                 "1080p": "https://kwik.cx/e/hshDvTjLxdwJ"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/D2w41xUpEL9H",
+                "720p": "https://kwik.cx/e/yQ1jsDrR22of",
+                "1080p": "https://kwik.cx/e/RtrFzBHAIUnQ"
             }
         }
     ]

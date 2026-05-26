@@ -9,10 +9,10 @@
     ],
     "studio": "Voil",
     "cover_image": "https://i.animepahe.pw/posters/86393e0abf597f5534fe78cdd3449d83503d584d86628f5f5952b24ce396f062.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -68,6 +68,14 @@
                 "360p": "https://kwik.cx/e/j8W4FVIx7iLe",
                 "720p": "https://kwik.cx/e/4lWwFuhFZeXt",
                 "1080p": "https://kwik.cx/e/4ZDPEk9t8ZAd"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/GtwtjBP43JHU",
+                "720p": "https://kwik.cx/e/DxwICuqxg0Bg",
+                "1080p": "https://kwik.cx/e/49HdGJZYM4oH"
             }
         }
     ]

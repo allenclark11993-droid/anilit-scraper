@@ -10,10 +10,10 @@
     ],
     "studio": "Imagica Infos, Imageworks Studio",
     "cover_image": "https://i.animepahe.pw/posters/2206d47453931dae0d7083f60aebe99f26ab56cedf73d21ff73d11972aee12eb.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -69,6 +69,14 @@
                 "360p": "https://kwik.cx/e/ToTIovzIJjGm",
                 "720p": "https://kwik.cx/e/v2BbZzVnLzXL",
                 "1080p": "https://kwik.cx/e/0gn73MBgk2Jh"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/V438O267RV7o",
+                "720p": "https://kwik.cx/e/NRJ3aYObYCXN",
+                "1080p": "https://kwik.cx/e/Dmb4aW49vTeW"
             }
         }
     ]

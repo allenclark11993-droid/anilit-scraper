@@ -8,10 +8,10 @@
     ],
     "studio": "Bones Film",
     "cover_image": "https://i.animepahe.pw/posters/41629e023009380d7bca4e8a120977ea7220c65af7a7992fc44b55ddb25ff3a6.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/SQfVWWZtj079",
                 "720p": "https://kwik.cx/e/gkuSfaP8O8ui",
                 "1080p": "https://kwik.cx/e/EAfchEPfPND5"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/GoQmZYISG2a7",
+                "720p": "https://kwik.cx/e/30QZiA0V9CbX",
+                "1080p": "https://kwik.cx/e/RTKQdV1BhUZe"
             }
         }
     ]
