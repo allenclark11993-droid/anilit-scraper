@@ -8,10 +8,10 @@
     ],
     "studio": "TMS Entertainment",
     "cover_image": "https://i.animepahe.pw/posters/64d8890ddc3623a6bba037768fff6936749c146ff1afd994471d55e1e0842f5e.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/NNicXn44l501",
                 "720p": "https://kwik.cx/e/tzX6Idknye8R",
                 "1080p": "https://kwik.cx/e/2RGFpmQViSWQ"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/FZqaWpbfbDu8",
+                "720p": "https://kwik.cx/e/elUZkc09FodA",
+                "1080p": "https://kwik.cx/e/ygZyvaT1Esje"
             }
         }
     ]

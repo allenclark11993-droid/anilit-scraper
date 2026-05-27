@@ -9,10 +9,10 @@
     ],
     "studio": "White Fox",
     "cover_image": "https://i.animepahe.pw/posters/dcb1a5cfeeeb489db67e7ddcca31fc2265fa37d5a048ce627404718a42319dba.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 67,
@@ -68,6 +68,14 @@
                 "360p": "https://kwik.cx/e/ODo6bBwnzhDy",
                 "720p": "https://kwik.cx/e/tt6dCZ5BuIfR",
                 "1080p": "https://kwik.cx/e/SU9ilKt65upf"
+            }
+        },
+        {
+            "episode_number": 74,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/uEC8Qp5dkicq",
+                "720p": "https://kwik.cx/e/BKkvr9VugxrR",
+                "1080p": "https://kwik.cx/e/3kSzlaqYP4xo"
             }
         }
     ]

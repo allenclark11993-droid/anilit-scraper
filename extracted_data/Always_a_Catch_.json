@@ -7,11 +7,11 @@
         "Romance"
     ],
     "studio": "TROYCA",
-    "cover_image": "https://i.animepahe.pw/posters/170f5b8aa477a9f8123a2b9ee7d93154c6cd06c47f78a50aca9f010e82087f7f.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "cover_image": "https://i.animepahe.pw/posters/a8de327cd85f706b2626f605efc4076b2427a0e67c9cf4d3991b3702a3def5f0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -75,6 +75,14 @@
                 "360p": "https://kwik.cx/e/5vz1AUHaCpyf",
                 "720p": "https://kwik.cx/e/u7192Qt0HzDu",
                 "1080p": "https://kwik.cx/e/KNd9tV9btn3t"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/wJ8Di3WJ7f5z",
+                "720p": "https://kwik.cx/e/ZPpEne3ZMQgA",
+                "1080p": "https://kwik.cx/e/my0LECgQQB3D"
             }
         }
     ]

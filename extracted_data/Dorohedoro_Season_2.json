@@ -10,10 +10,10 @@
     ],
     "studio": "MAPPA",
     "cover_image": "https://i.animepahe.pw/posters/3806d948b58aedcd9647bf3bbdf3599291425b54d5339c8fab8973445aab1670.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
-    "status": "ongoing",
-    "total_episodes": 10,
+    "status": "completed",
+    "total_episodes": 11,
     "episodes": [
         {
             "episode_number": 13,
@@ -93,6 +93,14 @@
                 "360p": "https://kwik.cx/e/Qb1sZyMYn7CE",
                 "720p": "https://kwik.cx/e/kEJlqEblIRjo",
                 "1080p": "https://kwik.cx/e/UfQwkR31mARV"
+            }
+        },
+        {
+            "episode_number": 23,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/KbQ7lMjrnRtJ",
+                "720p": "https://kwik.cx/e/pS8HgrHlsWM0",
+                "1080p": "https://kwik.cx/e/XimXJGlD5jKl"
             }
         }
     ]

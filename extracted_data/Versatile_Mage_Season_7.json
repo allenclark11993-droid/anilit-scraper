@@ -8,11 +8,11 @@
         "Fantasy"
     ],
     "studio": "Foch Film",
-    "cover_image": "https://i.animepahe.pw/posters/61a48b1de12d918ffdd0dbab5a100598c007ec97b6976ce68ecae2b63596d6f0.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "cover_image": "https://i.animepahe.pw/posters/58b361ff518f67daf976e68079e5c3f0b3a5f2419750b30f58a532e9d181aeb0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 1,
+    "total_episodes": 2,
     "episodes": [
         {
             "episode_number": 1,
@@ -20,6 +20,14 @@
                 "360p": "https://kwik.cx/e/mbqPCYkP5285",
                 "720p": "https://kwik.cx/e/CkJxtu147yay",
                 "1080p": "https://kwik.cx/e/9TLiqpywM1LK"
+            }
+        },
+        {
+            "episode_number": 2,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/44S9877e2CR9",
+                "720p": "https://kwik.cx/e/dnstRurZEzGb",
+                "1080p": "https://kwik.cx/e/LIAHBwqqwssI"
             }
         }
     ]
