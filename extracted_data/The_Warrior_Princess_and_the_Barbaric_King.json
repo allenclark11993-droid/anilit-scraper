@@ -9,10 +9,10 @@
     ],
     "studio": "Jumondou",
     "cover_image": "https://i.animepahe.pw/posters/903e641d74e9a52c9b1b3fbad83ad80487a9bfa194cb8cc7a787cc8c8a70a7b7.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -68,6 +68,14 @@
                 "360p": "https://kwik.cx/e/Opqy7Ds5RbId",
                 "720p": "https://kwik.cx/e/b8UkxdWr5Nih",
                 "1080p": "https://kwik.cx/e/T8EJp10I4GPx"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/WuJIXbmPMdZQ",
+                "720p": "https://kwik.cx/e/ORFr5Y6F7rcN",
+                "1080p": "https://kwik.cx/e/v6jv8MthdVoS"
             }
         }
     ]
