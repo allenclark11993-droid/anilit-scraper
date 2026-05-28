@@ -7,10 +7,10 @@
     ],
     "studio": "Satelight",
     "cover_image": "https://i.animepahe.pw/posters/fd12d8633ae7b3ed5d6e29e515d65617d187c83f6a9999320f80fa6c5eccbd9c.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/MP08XWC3cboz",
                 "720p": "https://kwik.cx/e/LCVzF7FQnPE6",
                 "1080p": "https://kwik.cx/e/vKJJatiq37ni"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/RKtYEqvULdoN",
+                "720p": "https://kwik.cx/e/0DV2yJoNdq3v",
+                "1080p": "https://kwik.cx/e/wlX2bkrGWnBy"
             }
         }
     ]

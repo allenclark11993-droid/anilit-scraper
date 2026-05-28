@@ -11,7 +11,7 @@
     "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -75,6 +75,14 @@
                 "360p": "https://kwik.cx/e/X5icxvlS35xh",
                 "720p": "https://kwik.cx/e/wVK7xelVOI6M",
                 "1080p": "https://kwik.cx/e/hUvwTKxw1lO4"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/2q2g4DSGKJE9",
+                "720p": "https://kwik.cx/e/eEKByXIXexKa",
+                "1080p": "https://kwik.cx/e/RMEoNrTkEMwn"
             }
         }
     ]

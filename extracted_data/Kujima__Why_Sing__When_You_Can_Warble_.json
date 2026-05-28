@@ -3,15 +3,15 @@
     "slug": "kujima-colon-why-sing-comma-when-you-can-warble-one",
     "description": "In the autumn of his first year of middle school, Arata Kouda meets Kujima, a strange creature that sort-of looks like a bird. Since Kujima is hungry, Arata brings it home with him... But because of his older brother who failed his entrance exams, Kujima gets carried away by the situation and ends up freeloading at the Kouda residence. He says it's just until he makes it through winter, and the warmth of spring comes, but...",
     "genres": [
-        "Comedy",
+        "Slice of Life",
         "Supernatural"
     ],
     "studio": "Studio Hibari",
     "cover_image": "https://i.animepahe.pw/posters/c6cdf1148a24b25ce26e457a5acd89c44b08ed3e9d59f641de83b98e6abf0b59.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/xNzzbEiZkcvT",
                 "720p": "https://kwik.cx/e/eVnF6eibtBw3",
                 "1080p": "https://kwik.cx/e/ph3K2pzmLYOh"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/W6scrQOHLyNf",
+                "720p": "https://kwik.cx/e/XpqYwvwZH9zt",
+                "1080p": "https://kwik.cx/e/jutEKUpUKQOU"
             }
         }
     ]

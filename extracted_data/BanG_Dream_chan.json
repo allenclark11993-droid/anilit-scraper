@@ -5,10 +5,10 @@
     "genres": [],
     "studio": "N/A",
     "cover_image": "https://i.animepahe.pw/posters/dcb56a4716f66d7fe435e4ac595fe8e379648d327b617e2336574dc7470a3614.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2025-01-01",
     "status": "ongoing",
-    "total_episodes": 33,
+    "total_episodes": 34,
     "episodes": [
         {
             "episode_number": 1,
@@ -272,6 +272,14 @@
                 "360p": "https://kwik.cx/e/HmAuzV0K8wfY",
                 "720p": "https://kwik.cx/e/hSw7oPF52Cr2",
                 "1080p": "https://kwik.cx/e/Raam2WA7bl6G"
+            }
+        },
+        {
+            "episode_number": 34,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/CserohymZonu",
+                "720p": "https://kwik.cx/e/LNUX8PFrXVRd",
+                "1080p": "https://kwik.cx/e/xYiD9yPsvKnC"
             }
         }
     ]

@@ -9,10 +9,10 @@
     ],
     "studio": "BENTEN Film",
     "cover_image": "https://i.animepahe.pw/posters/150a083632998b2c594c843caba467514e0a4347215a3ccf2f9fe3076531271a.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -76,6 +76,14 @@
                 "360p": "https://kwik.cx/e/s8KOX81QSffp",
                 "720p": "https://kwik.cx/e/DdHRXDt9yFt5",
                 "1080p": "https://kwik.cx/e/Y0gFNY7mBkja"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Oc3FXC61tGaJ",
+                "720p": "https://kwik.cx/e/1ZQqrGuug0DX",
+                "1080p": "https://kwik.cx/e/iLx73Cwx5I8C"
             }
         }
     ]
