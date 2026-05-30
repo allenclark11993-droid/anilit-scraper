@@ -8,10 +8,10 @@
     ],
     "studio": "Bandai Namco Pictures",
     "cover_image": "https://i.animepahe.pw/posters/ace920856db8c089b40db9d0180fd6ed91e462e2c03d0e31504815ac582123c2.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -75,6 +75,13 @@
                 "360p": "https://kwik.cx/e/sNZdqI46EoOp",
                 "720p": "https://kwik.cx/e/5TNCdd0EcGTH",
                 "1080p": "https://kwik.cx/e/AFS96fHxbXjH"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/Vz01vllfTCCg",
+                "1080p": "https://kwik.cx/e/8jrtH4FerSGe"
             }
         }
     ]

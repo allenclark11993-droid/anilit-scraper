@@ -19182,10 +19182,10 @@
         "last_update": "2026-05-30 14:55:23"
     },
     "The Outcast Season 6": {
-        "episodes_synced": 21,
-        "total": 21,
+        "episodes_synced": 22,
+        "total": 22,
         "status": "completed",
-        "last_update": "2026-05-23 15:49:24"
+        "last_update": "2026-05-30 18:18:59"
     },
     "An Observation Log of My Fianc\u00e9e Who Calls Herself a Villainess": {
         "episodes_synced": 9,
@@ -19197,37 +19197,37 @@
         "episodes_synced": 9,
         "total": 9,
         "status": "completed",
-        "last_update": "2026-05-30 14:55:49"
+        "last_update": "2026-05-30 18:18:34"
     },
     "That Time I Got Reincarnated as a Slime Season 4": {
         "episodes_synced": 8,
         "total": 8,
         "status": "completed",
-        "last_update": "2026-05-30 14:55:59"
+        "last_update": "2026-05-30 18:18:39"
     },
     "The Drops of God": {
         "episodes_synced": 8,
         "total": 8,
         "status": "completed",
-        "last_update": "2026-05-30 14:56:20"
+        "last_update": "2026-05-30 18:18:48"
     },
     "SNOWBALL EARTH": {
         "episodes_synced": 9,
         "total": 9,
         "status": "completed",
-        "last_update": "2026-05-30 14:56:10"
+        "last_update": "2026-05-30 18:18:44"
     },
     "FIST OF THE NORTH STAR: HOKUTO NO KEN": {
-        "episodes_synced": 9,
-        "total": 9,
+        "episodes_synced": 10,
+        "total": 10,
         "status": "completed",
-        "last_update": "2026-05-23 22:41:14"
+        "last_update": "2026-05-30 18:19:10"
     },
     "Botan Kamiina Fully Blossoms When Drunk": {
-        "episodes_synced": 7,
-        "total": 7,
+        "episodes_synced": 8,
+        "total": 8,
         "status": "completed",
-        "last_update": "2026-05-24 08:09:07"
+        "last_update": "2026-05-30 18:19:20"
     },
     "Marika's Love Meter Malfunction": {
         "episodes_synced": 6,
@@ -19236,22 +19236,22 @@
         "last_update": "2026-05-24 08:09:12"
     },
     "RILAKKUMA": {
+        "episodes_synced": 9,
+        "total": 9,
+        "status": "completed",
+        "last_update": "2026-05-30 18:19:31"
+    },
+    "Pok\u00e9mon Horizons: The Series": {
+        "episodes_synced": 139,
+        "total": 139,
+        "status": "completed",
+        "last_update": "2026-05-30 18:19:50"
+    },
+    "Ascendance of a Bookworm: Adopted Daughter of an Archduke": {
         "episodes_synced": 8,
         "total": 8,
         "status": "completed",
-        "last_update": "2026-05-24 08:09:17"
-    },
-    "Pok\u00e9mon Horizons: The Series": {
-        "episodes_synced": 138,
-        "total": 138,
-        "status": "completed",
-        "last_update": "2026-05-24 12:15:12"
-    },
-    "Ascendance of a Bookworm: Adopted Daughter of an Archduke": {
-        "episodes_synced": 7,
-        "total": 7,
-        "status": "completed",
-        "last_update": "2026-05-24 12:15:16"
+        "last_update": "2026-05-30 18:20:00"
     },
     "Magical Sisters LuluttoLilly": {
         "episodes_synced": 7,
@@ -19260,10 +19260,10 @@
         "last_update": "2026-05-24 12:15:21"
     },
     "Welcome to Demon School! Iruma-kun Season 4": {
-        "episodes_synced": 8,
-        "total": 8,
+        "episodes_synced": 9,
+        "total": 9,
         "status": "completed",
-        "last_update": "2026-05-24 12:15:26"
+        "last_update": "2026-05-30 18:20:10"
     },
     "The Great Sage Ryddel and the Hands of Time": {
         "episodes_synced": 8,
@@ -19444,5 +19444,11 @@
         "total": 1,
         "status": "completed",
         "last_update": "2026-05-27 20:41:15"
+    },
+    "Detective Conan": {
+        "episodes_synced": 1177,
+        "total": 1177,
+        "status": "completed",
+        "last_update": "2026-05-30 19:56:56"
     }
 }

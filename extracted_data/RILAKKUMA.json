@@ -7,10 +7,10 @@
     ],
     "studio": "Production I.G",
     "cover_image": "https://i.animepahe.pw/posters/e65355f32cef7395b36e42f36aa4a7b0f8ff8224da69c4e21bddeb8c7e4227ee.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/7bb6K3dhIp5i",
                 "720p": "https://kwik.cx/e/mVUCXrZtqbQa",
                 "1080p": "https://kwik.cx/e/QIIjYKPGMQam"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/n18JqQLukDbJ",
+                "720p": "https://kwik.cx/e/1UZTnMhHb6kc",
+                "1080p": "https://kwik.cx/e/gBygoYr3d7SM"
             }
         }
     ]

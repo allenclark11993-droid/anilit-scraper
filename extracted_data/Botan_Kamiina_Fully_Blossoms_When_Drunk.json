@@ -9,10 +9,10 @@
     ],
     "studio": "Soigne",
     "cover_image": "https://i.animepahe.pw/posters/98553f0aaa2ea0f10cd6d31038435c4c39cc65372555253c10d9510a98d583c5.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -68,6 +68,14 @@
                 "360p": "https://kwik.cx/e/nCanUJadhyZo",
                 "720p": "https://kwik.cx/e/SBYrTELJsNwo",
                 "1080p": "https://kwik.cx/e/VltN3sIWPsxc"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Wt0DczOwPO82",
+                "720p": "https://kwik.cx/e/74zq8JQifYeA",
+                "1080p": "https://kwik.cx/e/pwVa9kD7xThq"
             }
         }
     ]

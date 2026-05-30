@@ -10,10 +10,10 @@
     ],
     "studio": "OLM",
     "cover_image": "https://i.animepahe.pw/posters/953b72f3f33aab88eb5929aac777c1c47043110fd8bb29d8ec35cac7045d478d.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2023-01-01",
     "status": "ongoing",
-    "total_episodes": 138,
+    "total_episodes": 139,
     "episodes": [
         {
             "episode_number": 0,
@@ -1117,6 +1117,13 @@
                 "360p": "https://kwik.cx/e/Dymh55UZNzZs",
                 "720p": "https://kwik.cx/e/XT0vWSJgHV4Q",
                 "1080p": "https://kwik.cx/e/LybcPTl84DWk"
+            }
+        },
+        {
+            "episode_number": 138,
+            "resolutions": {
+                "720p": "https://kwik.cx/e/tX8sQyXD6IJW",
+                "1080p": "https://kwik.cx/e/XueLXEYWJIfp"
             }
         }
     ]

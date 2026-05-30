@@ -8,10 +8,10 @@
     ],
     "studio": "Qiyuan Yinghua, Equator",
     "cover_image": "https://i.animepahe.pw/posters/bbe572a63aa1de928e226846b94b60de53d843f73cbe426de0569d9ad61474c0.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 21,
+    "total_episodes": 22,
     "episodes": [
         {
             "episode_number": 1,
@@ -179,6 +179,14 @@
                 "264p": "https://kwik.cx/e/OGCILVJQBfBs",
                 "528p": "https://kwik.cx/e/068Ceq7K07Eo",
                 "800p": "https://kwik.cx/e/irZ25zga4jPJ"
+            }
+        },
+        {
+            "episode_number": 22,
+            "resolutions": {
+                "264p": "https://kwik.cx/e/jVhR3y9JZ5UI",
+                "528p": "https://kwik.cx/e/vQLvX81SDRow",
+                "800p": "https://kwik.cx/e/asEdSVUoJxcF"
             }
         }
     ]
