@@ -9,10 +9,10 @@
     ],
     "studio": "Toei Animation",
     "cover_image": "https://i.animepahe.pw/posters/ebb9a5bd9ed0d661744e059e9ee14c8bfaabb8fac20843ceaa5d2e1438af3857.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2025-01-01",
     "status": "ongoing",
-    "total_episodes": 32,
+    "total_episodes": 33,
     "episodes": [
         {
             "episode_number": 1,
@@ -268,6 +268,14 @@
                 "360p": "https://kwik.cx/e/7cSFOVK5E0Cw",
                 "720p": "https://kwik.cx/e/ziPcXoqW3cZp",
                 "1080p": "https://kwik.cx/e/H3q3RbUU4kf3"
+            }
+        },
+        {
+            "episode_number": 33,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/p2gkCYp4ZjgN",
+                "720p": "https://kwik.cx/e/XnRqA2hSTdAN",
+                "1080p": "https://kwik.cx/e/WvFtlQd7AYzZ"
             }
         }
     ]

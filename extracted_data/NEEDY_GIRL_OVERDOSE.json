@@ -7,10 +7,10 @@
     ],
     "studio": "Yostar Pictures",
     "cover_image": "https://i.animepahe.pw/posters/fb996d47f4ae8b8c56ff944589743e8dd1ea002ec4bd30dd4d634f0842ccb286.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/ToAR4KnrJJeA",
                 "720p": "https://kwik.cx/e/MviMXLborVwX",
                 "1080p": "https://kwik.cx/e/neHdgQEMrVaf"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/9jXAILslg0YA",
+                "720p": "https://kwik.cx/e/0f9eMizG327q",
+                "1080p": "https://kwik.cx/e/MdfiXJAIDumI"
             }
         }
     ]

@@ -8,10 +8,10 @@
     ],
     "studio": "Actas, Bandai Namco Pictures",
     "cover_image": "https://i.animepahe.pw/posters/b6daedee0bcb90fd0c361be6d1f966f5ea8fe94680aac4a9067da4e9812a7102.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 13,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/YkvTnBWfQ4ek",
                 "720p": "https://kwik.cx/e/uRh9lJVf7UR9",
                 "1080p": "https://kwik.cx/e/VbB65LDzDhiE"
+            }
+        },
+        {
+            "episode_number": 20,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/ORCRq4QPty2b",
+                "720p": "https://kwik.cx/e/qNtOLjFdP2Pg",
+                "1080p": "https://kwik.cx/e/SttCbd18fs3b"
             }
         }
     ]

@@ -9,10 +9,10 @@
     ],
     "studio": "Studio Flad",
     "cover_image": "https://i.animepahe.pw/posters/77ac2d4c0bf60dd1bc675759ed9faf6804180ec53e509fc6c1c0b5b544831925.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "episode_number": 1,
@@ -84,6 +84,14 @@
                 "360p": "https://kwik.cx/e/QNPEa0gJPxcb",
                 "720p": "https://kwik.cx/e/P5PCTqLuCTqk",
                 "1080p": "https://kwik.cx/e/aj1SS7pKaAuK"
+            }
+        },
+        {
+            "episode_number": 10,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/2TH8jrDn6HYS",
+                "720p": "https://kwik.cx/e/sPgdgr7AXLUM",
+                "1080p": "https://kwik.cx/e/zR76Z5qp6cz5"
             }
         }
     ]

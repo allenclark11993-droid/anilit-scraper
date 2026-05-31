@@ -9,10 +9,10 @@
     ],
     "studio": "Wit Studio",
     "cover_image": "https://i.animepahe.pw/posters/0c4af46dfe95ffc84ec7e04c6e5e6fb0fa6eebe85ddebb03e16e51fddd765bf9.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "episode_number": 1,
@@ -84,6 +84,14 @@
                 "360p": "https://kwik.cx/e/3tTs2PHLKhwN",
                 "720p": "https://kwik.cx/e/nHm796JnHzrY",
                 "1080p": "https://kwik.cx/e/WLvw2io0Oby1"
+            }
+        },
+        {
+            "episode_number": 10,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/sJlFElVYubrY",
+                "720p": "https://kwik.cx/e/PNWC9vHsnBx5",
+                "1080p": "https://kwik.cx/e/itbDS7xxhBJM"
             }
         }
     ]

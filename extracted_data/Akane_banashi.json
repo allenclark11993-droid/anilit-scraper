@@ -7,10 +7,10 @@
     ],
     "studio": "Zexcs",
     "cover_image": "https://i.animepahe.pw/posters/ead4dce473122430bf42fb544b6f8e2a51ded1b56dd8845de9ff6ff94944c335.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/ZF1wOw18Ca0N",
                 "720p": "https://kwik.cx/e/XPI7opmcN1k2",
                 "1080p": "https://kwik.cx/e/QY8WmsbX18FL"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/sIv2ikwxQPME",
+                "720p": "https://kwik.cx/e/R9aIqN2ENNb9",
+                "1080p": "https://kwik.cx/e/SkS1elo2h1ot"
             }
         }
     ]

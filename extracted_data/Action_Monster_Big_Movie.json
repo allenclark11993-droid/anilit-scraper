@@ -8,10 +8,10 @@
     ],
     "studio": "HuaMei Animation",
     "cover_image": "https://i.animepahe.pw/posters/2fe8736f0f38408ed4673eaacb0614b47cdeb9a4c1fc60767b73cda0294ea734.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 6,
+    "total_episodes": 7,
     "episodes": [
         {
             "episode_number": 1,
@@ -59,6 +59,14 @@
                 "360p": "https://kwik.cx/e/aJHtldBT8V6h",
                 "720p": "https://kwik.cx/e/PZLfrcvz35PG",
                 "1080p": "https://kwik.cx/e/1ZcXS9LbEzYj"
+            }
+        },
+        {
+            "episode_number": 7,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/2VFivD7rZrL5",
+                "720p": "https://kwik.cx/e/KCEvl1XfJ2y2",
+                "1080p": "https://kwik.cx/e/jn3xHfKjVmwT"
             }
         }
     ]
