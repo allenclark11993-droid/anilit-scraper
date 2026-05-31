@@ -8,10 +8,10 @@
     ],
     "studio": "LIDENFILMS",
     "cover_image": "https://i.animepahe.pw/posters/2f9298201c12506966118e957a27e4e4c239924f43dd319a11cb4cece4e5c140.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/iA5m5bskzgJi",
                 "720p": "https://kwik.cx/e/FhSjhPOtVhGw",
                 "1080p": "https://kwik.cx/e/QOYK4ywxD9XY"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/m9vQYDKv4LvI",
+                "720p": "https://kwik.cx/e/ly9l8atIawbi",
+                "1080p": "https://kwik.cx/e/GJ5F3yBKSLVi"
             }
         }
     ]

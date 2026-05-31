@@ -8,10 +8,10 @@
     ],
     "studio": "EMT Squared",
     "cover_image": "https://i.animepahe.pw/posters/6d5127b13462e038498d2e5bf2944436b31aa4688af30900aa7b37ffab15c249.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "episode_number": 1,
@@ -83,6 +83,14 @@
                 "360p": "https://kwik.cx/e/2pKLxkbkm3G7",
                 "720p": "https://kwik.cx/e/ipAyIcknMgJa",
                 "1080p": "https://kwik.cx/e/bmFV4lsojHwp"
+            }
+        },
+        {
+            "episode_number": 10,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/dqYOb2zCq7iw",
+                "720p": "https://kwik.cx/e/aqVPMB6W2nct",
+                "1080p": "https://kwik.cx/e/bz88pFTXbasc"
             }
         }
     ]

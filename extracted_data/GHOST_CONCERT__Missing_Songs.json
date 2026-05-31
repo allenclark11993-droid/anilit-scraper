@@ -9,10 +9,10 @@
     ],
     "studio": "ENGI",
     "cover_image": "https://i.animepahe.pw/posters/d42dfd4fd560f0dae6336e262607e9dddbd6eefa63cc25f69c0084b4c7dbbdcb.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -76,6 +76,14 @@
                 "360p": "https://kwik.cx/e/vEwJmajskuLr",
                 "720p": "https://kwik.cx/e/wpamsMZgItHi",
                 "1080p": "https://kwik.cx/e/LVfC3vrp4DdO"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/MDqMuTMLOqwf",
+                "720p": "https://kwik.cx/e/O5ZlCfjAJ3OJ",
+                "1080p": "https://kwik.cx/e/eTlhS8j40BiD"
             }
         }
     ]

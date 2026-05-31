@@ -9,10 +9,10 @@
     ],
     "studio": "Elias",
     "cover_image": "https://i.animepahe.pw/posters/e68905f632f679b192188f91661573607c2fb251d533d700bb2c584a70594bfe.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -76,6 +76,14 @@
                 "360p": "https://kwik.cx/e/8QlJQyVgaN56",
                 "720p": "https://kwik.cx/e/wJnhc99TbqqZ",
                 "1080p": "https://kwik.cx/e/sCO9A2TNsnUr"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/8MsNjos5glTB",
+                "720p": "https://kwik.cx/e/sAdcACr27xzL",
+                "1080p": "https://kwik.cx/e/y5fkXtmn6YGg"
             }
         }
     ]
