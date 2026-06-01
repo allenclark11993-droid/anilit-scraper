@@ -7,10 +7,10 @@
     ],
     "studio": "BUG FILMS",
     "cover_image": "https://i.animepahe.pw/posters/902c8f96be343b1b9bd8a873df3a47900dbf742578d542737a5821fc5987968f.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default1.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 9,
+    "total_episodes": 10,
     "episodes": [
         {
             "episode_number": 1,
@@ -82,6 +82,14 @@
                 "360p": "https://kwik.cx/e/KJkGKyavcal5",
                 "720p": "https://kwik.cx/e/Tqx3nAqY9KnE",
                 "1080p": "https://kwik.cx/e/qAtCOnZJfEhF"
+            }
+        },
+        {
+            "episode_number": 10,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/T7GHagxtV4b8",
+                "720p": "https://kwik.cx/e/2Z6g0cUMdpN9",
+                "1080p": "https://kwik.cx/e/7suudHwK36BC"
             }
         }
     ]

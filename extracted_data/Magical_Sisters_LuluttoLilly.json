@@ -5,10 +5,10 @@
     "genres": [],
     "studio": "Studio Pierrot",
     "cover_image": "https://i.animepahe.pw/posters/0f3fdcc275cc431464738a3448a5cdfbdec9a6dfcfa90344546e8c912f7d29d8.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -64,6 +64,14 @@
                 "360p": "https://kwik.cx/e/yn2bLhIQwKeG",
                 "720p": "https://kwik.cx/e/bK3TXYA1vPSv",
                 "1080p": "https://kwik.cx/e/GMwADG5qkoOf"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/P7r1s8byo0nW",
+                "720p": "https://kwik.cx/e/LV6trMcRX9YZ",
+                "1080p": "https://kwik.cx/e/PVqolDNq7ltv"
             }
         }
     ]
