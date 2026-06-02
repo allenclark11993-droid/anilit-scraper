@@ -8,10 +8,10 @@
     ],
     "studio": "Qzil.la, S.o.K",
     "cover_image": "https://i.animepahe.pw/posters/3dbe44bcc8ebda8295c7b1628c3bd87340fb72cc5bcb37c923473c2f8f25883c.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -75,6 +75,14 @@
                 "360p": "https://kwik.cx/e/Aq1LwbV94xxT",
                 "720p": "https://kwik.cx/e/S3H2iYvgIfVl",
                 "1080p": "https://kwik.cx/e/blQZ96t4HowA"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Xae2N3HBiwvV",
+                "720p": "https://kwik.cx/e/LZMFLY1SDixq",
+                "1080p": "https://kwik.cx/e/ODJPZrPJaKEq"
             }
         }
     ]

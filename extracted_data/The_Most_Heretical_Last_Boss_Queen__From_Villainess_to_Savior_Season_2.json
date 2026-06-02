@@ -7,10 +7,10 @@
     ],
     "studio": "OLM",
     "cover_image": "https://i.animepahe.pw/posters/c54dff230849945ebe347003f18d4fdd42748712db0b5c498fce68bcf8e84a9b.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default3.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/GDlvM2u5uCOl",
                 "720p": "https://kwik.cx/e/r5HSrzQHFdev",
                 "1080p": "https://kwik.cx/e/4FBUqZHGi4GI"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/rQ2nqWUknJdW",
+                "720p": "https://kwik.cx/e/BZg06kMyMx1Z",
+                "1080p": "https://kwik.cx/e/odSmtu6XkfAa"
             }
         }
     ]

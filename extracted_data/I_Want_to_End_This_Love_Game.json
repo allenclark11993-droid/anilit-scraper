@@ -8,10 +8,10 @@
     ],
     "studio": "Felix Film",
     "cover_image": "https://i.animepahe.pw/posters/0c8770d27d104650ac157e525145ec85c2024c56803f81900e7139c367c36012.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default2.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 7,
+    "total_episodes": 8,
     "episodes": [
         {
             "episode_number": 1,
@@ -67,6 +67,14 @@
                 "360p": "https://kwik.cx/e/boTg5Xdn4zdQ",
                 "720p": "https://kwik.cx/e/nvh6nr5mytdN",
                 "1080p": "https://kwik.cx/e/bPBmLLtcKyET"
+            }
+        },
+        {
+            "episode_number": 8,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/GJjazWYSwTLt",
+                "720p": "https://kwik.cx/e/KNpb26zjE7gi",
+                "1080p": "https://kwik.cx/e/dCUcwYyUJj8I"
             }
         }
     ]

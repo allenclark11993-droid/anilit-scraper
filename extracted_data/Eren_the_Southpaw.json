@@ -7,10 +7,10 @@
     ],
     "studio": "Production I.G, Signal.MD",
     "cover_image": "https://i.animepahe.pw/posters/65263495f0bb0d7313cf04808f9aef8f4d833f13b709370fe03c00d9e4898ac7.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default4.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/HEKeNm47nncd",
                 "720p": "https://kwik.cx/e/3gWpk4TuzTST",
                 "1080p": "https://kwik.cx/e/qumHJaKT5eYJ"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/Lljf2byzDovX",
+                "720p": "https://kwik.cx/e/SaqqszP9w2aN",
+                "1080p": "https://kwik.cx/e/Rbz7XWYPNQXM"
             }
         }
     ]

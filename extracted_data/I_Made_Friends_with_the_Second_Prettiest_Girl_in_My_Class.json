@@ -7,10 +7,10 @@
     ],
     "studio": "Connect",
     "cover_image": "https://i.animepahe.pw/posters/6e70b333e15ce586707fb47211454943358d3bbc4e1c5c0121f32c4b0ac91730.jpg",
-    "background_image": "https://i.animepahe.pw/covers/cover_default5.jpg",
+    "background_image": "https://i.animepahe.pw/covers/cover_default0.jpg",
     "release_date": "2026-01-01",
     "status": "ongoing",
-    "total_episodes": 8,
+    "total_episodes": 9,
     "episodes": [
         {
             "episode_number": 1,
@@ -74,6 +74,14 @@
                 "360p": "https://kwik.cx/e/23lZfYs06cGw",
                 "720p": "https://kwik.cx/e/VL2VQ0a54tZA",
                 "1080p": "https://kwik.cx/e/eK8DrHHrDYRs"
+            }
+        },
+        {
+            "episode_number": 9,
+            "resolutions": {
+                "360p": "https://kwik.cx/e/nnTsWT9mU2CO",
+                "720p": "https://kwik.cx/e/Y6NJxheaIDMz",
+                "1080p": "https://kwik.cx/e/Vqp050IKZ4Lv"
             }
         }
     ]
